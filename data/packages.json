@@ -1,169 +1,402 @@
 [
     {
-        "package_id": "PKG-20261102032313-2B54",
-        "name": "Standard Saver",
-        "category": "Standard",
-        "duration_hours": 3.0,
-        "price": "650.00",
-        "includes_food": false,
-        "inclusions": [],
-        "description": "3-hour room rental bundle for Standard rooms",
-        "is_active": true
+        "name":  "Mega Sing Bundle Tier 1",
+        "duration_hours":  3,
+        "is_active":  true,
+        "price":  "750.00",
+        "package_id":  "PKG001",
+        "description":  "High-tier promotional package including food platters and singing time."
     },
     {
-        "package_id": "PKG-20261102032313-9CBF",
-        "name": "Medium Barkada",
-        "category": "Medium",
-        "duration_hours": 3.0,
-        "price": "900.00",
-        "includes_food": false,
-        "inclusions": [],
-        "description": "3-hour room rental bundle for Medium rooms",
-        "is_active": true
+        "name":  "Mega Sing Bundle Tier 2",
+        "duration_hours":  4,
+        "is_active":  true,
+        "price":  "950.00",
+        "package_id":  "PKG002",
+        "description":  "High-tier promotional package including food platters and singing time."
     },
     {
-        "package_id": "PKG-20261102032313-1B6D",
-        "name": "Grand Session",
-        "category": "Grand",
-        "duration_hours": 3.0,
-        "price": "1350.00",
-        "includes_food": false,
-        "inclusions": [],
-        "description": "3-hour room rental bundle for Grand rooms",
-        "is_active": true
+        "name":  "Mega Sing Bundle Tier 3",
+        "duration_hours":  5,
+        "is_active":  true,
+        "price":  "1150.00",
+        "package_id":  "PKG003",
+        "description":  "High-tier promotional package including food platters and singing time."
     },
     {
-        "package_id": "PKG-20261102032313-3C0E",
-        "name": "VIP Experience",
-        "category": "VIP",
-        "duration_hours": 4.0,
-        "price": "2500.00",
-        "includes_food": false,
-        "inclusions": [],
-        "description": "4-hour luxury room rental bundle for VIP rooms",
-        "is_active": true
+        "name":  "Mega Sing Bundle Tier 4",
+        "duration_hours":  2,
+        "is_active":  true,
+        "price":  "550.00",
+        "package_id":  "PKG004",
+        "description":  "High-tier promotional package including food platters and singing time."
     },
     {
-        "package_id": "PKG-20261102032313-AF30",
-        "name": "VVIP Experience",
-        "category": "VVIP",
-        "duration_hours": 4.0,
-        "price": "3600.00",
-        "includes_food": false,
-        "inclusions": [],
-        "description": "4-hour ultra-luxury room bundle for VVIP rooms",
-        "is_active": true
+        "name":  "Mega Sing Bundle Tier 5",
+        "duration_hours":  3,
+        "is_active":  true,
+        "price":  "750.00",
+        "package_id":  "PKG005",
+        "description":  "High-tier promotional package including food platters and singing time."
     },
     {
-        "package_id": "PKG-20261102032313-23CD",
-        "name": "Barkada Bundle",
-        "category": "Standard",
-        "duration_hours": 3.0,
-        "price": "1000.00",
-        "includes_food": true,
-        "inclusions": [
-            {
-                "product_name": "French Fries Platter",
-                "quantity": 1
-            },
-            {
-                "product_name": "Coke (330ml Can)",
-                "quantity": 4
-            }
-        ],
-        "description": "3h Standard room + fries & drinks",
-        "is_active": true
+        "name":  "Mega Sing Bundle Tier 6",
+        "duration_hours":  4,
+        "is_active":  true,
+        "price":  "950.00",
+        "package_id":  "PKG006",
+        "description":  "High-tier promotional package including food platters and singing time."
     },
     {
-        "package_id": "PKG-20261102032313-BCF0",
-        "name": "Friends Bundle",
-        "category": "Medium",
-        "duration_hours": 3.0,
-        "price": "1400.00",
-        "includes_food": true,
-        "inclusions": [
-            {
-                "product_name": "Loaded Nachos",
-                "quantity": 1
-            },
-            {
-                "product_name": "Iced Lemon Tea",
-                "quantity": 1
-            }
-        ],
-        "description": "3h Medium room + nachos & pitcher of iced tea",
-        "is_active": true
+        "name":  "Mega Sing Bundle Tier 7",
+        "duration_hours":  5,
+        "is_active":  true,
+        "price":  "1150.00",
+        "package_id":  "PKG007",
+        "description":  "High-tier promotional package including food platters and singing time."
     },
     {
-        "package_id": "PKG-20261102032313-FA3B",
-        "name": "Grand Feast",
-        "category": "Grand",
-        "duration_hours": 3.0,
-        "price": "2000.00",
-        "includes_food": true,
-        "inclusions": [
-            {
-                "product_name": "Sizzling Pork Sisig",
-                "quantity": 2
-            },
-            {
-                "product_name": "Spaghetti Bolognese",
-                "quantity": 1
-            },
-            {
-                "product_name": "Coke (330ml Can)",
-                "quantity": 6
-            }
-        ],
-        "description": "3h Grand room + feast meals & drinks",
-        "is_active": true
+        "name":  "Mega Sing Bundle Tier 8",
+        "duration_hours":  2,
+        "is_active":  true,
+        "price":  "550.00",
+        "package_id":  "PKG008",
+        "description":  "High-tier promotional package including food platters and singing time."
     },
     {
-        "package_id": "PKG-20261102032313-4108",
-        "name": "VIP Celebration",
-        "category": "VIP",
-        "duration_hours": 4.0,
-        "price": "3000.00",
-        "includes_food": true,
-        "inclusions": [
-            {
-                "product_name": "Loaded Nachos",
-                "quantity": 2
-            },
-            {
-                "product_name": "Carbonara Platter",
-                "quantity": 1
-            },
-            {
-                "product_name": "Iced Lemon Tea",
-                "quantity": 2
-            }
-        ],
-        "description": "4h VIP room + party platters",
-        "is_active": true
+        "name":  "Mega Sing Bundle Tier 9",
+        "duration_hours":  3,
+        "is_active":  true,
+        "price":  "750.00",
+        "package_id":  "PKG009",
+        "description":  "High-tier promotional package including food platters and singing time."
     },
     {
-        "package_id": "PKG-20261102032313-8A5A",
-        "name": "VVIP Party",
-        "category": "VVIP",
-        "duration_hours": 4.0,
-        "price": "4500.00",
-        "includes_food": true,
-        "inclusions": [
-            {
-                "product_name": "Loaded Nachos",
-                "quantity": 2
-            },
-            {
-                "product_name": "Sizzling Pork Sisig",
-                "quantity": 3
-            },
-            {
-                "product_name": "Carbonara Platter",
-                "quantity": 2
-            }
-        ],
-        "description": "4h VVIP room + complete banquet spread",
-        "is_active": true
+        "name":  "Mega Sing Bundle Tier 10",
+        "duration_hours":  4,
+        "is_active":  true,
+        "price":  "950.00",
+        "package_id":  "PKG010",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 11",
+        "duration_hours":  5,
+        "is_active":  true,
+        "price":  "1150.00",
+        "package_id":  "PKG011",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 12",
+        "duration_hours":  2,
+        "is_active":  true,
+        "price":  "550.00",
+        "package_id":  "PKG012",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 13",
+        "duration_hours":  3,
+        "is_active":  true,
+        "price":  "750.00",
+        "package_id":  "PKG013",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 14",
+        "duration_hours":  4,
+        "is_active":  true,
+        "price":  "950.00",
+        "package_id":  "PKG014",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 15",
+        "duration_hours":  5,
+        "is_active":  true,
+        "price":  "1150.00",
+        "package_id":  "PKG015",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 16",
+        "duration_hours":  2,
+        "is_active":  true,
+        "price":  "550.00",
+        "package_id":  "PKG016",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 17",
+        "duration_hours":  3,
+        "is_active":  true,
+        "price":  "750.00",
+        "package_id":  "PKG017",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 18",
+        "duration_hours":  4,
+        "is_active":  true,
+        "price":  "950.00",
+        "package_id":  "PKG018",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 19",
+        "duration_hours":  5,
+        "is_active":  true,
+        "price":  "1150.00",
+        "package_id":  "PKG019",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 20",
+        "duration_hours":  2,
+        "is_active":  true,
+        "price":  "550.00",
+        "package_id":  "PKG020",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 21",
+        "duration_hours":  3,
+        "is_active":  true,
+        "price":  "750.00",
+        "package_id":  "PKG021",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 22",
+        "duration_hours":  4,
+        "is_active":  true,
+        "price":  "950.00",
+        "package_id":  "PKG022",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 23",
+        "duration_hours":  5,
+        "is_active":  true,
+        "price":  "1150.00",
+        "package_id":  "PKG023",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 24",
+        "duration_hours":  2,
+        "is_active":  true,
+        "price":  "550.00",
+        "package_id":  "PKG024",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 25",
+        "duration_hours":  3,
+        "is_active":  true,
+        "price":  "750.00",
+        "package_id":  "PKG025",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 26",
+        "duration_hours":  4,
+        "is_active":  true,
+        "price":  "950.00",
+        "package_id":  "PKG026",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 27",
+        "duration_hours":  5,
+        "is_active":  true,
+        "price":  "1150.00",
+        "package_id":  "PKG027",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 28",
+        "duration_hours":  2,
+        "is_active":  true,
+        "price":  "550.00",
+        "package_id":  "PKG028",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 29",
+        "duration_hours":  3,
+        "is_active":  true,
+        "price":  "750.00",
+        "package_id":  "PKG029",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 30",
+        "duration_hours":  4,
+        "is_active":  true,
+        "price":  "950.00",
+        "package_id":  "PKG030",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 31",
+        "duration_hours":  5,
+        "is_active":  true,
+        "price":  "1150.00",
+        "package_id":  "PKG031",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 32",
+        "duration_hours":  2,
+        "is_active":  true,
+        "price":  "550.00",
+        "package_id":  "PKG032",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 33",
+        "duration_hours":  3,
+        "is_active":  true,
+        "price":  "750.00",
+        "package_id":  "PKG033",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 34",
+        "duration_hours":  4,
+        "is_active":  true,
+        "price":  "950.00",
+        "package_id":  "PKG034",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 35",
+        "duration_hours":  5,
+        "is_active":  true,
+        "price":  "1150.00",
+        "package_id":  "PKG035",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 36",
+        "duration_hours":  2,
+        "is_active":  true,
+        "price":  "550.00",
+        "package_id":  "PKG036",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 37",
+        "duration_hours":  3,
+        "is_active":  true,
+        "price":  "750.00",
+        "package_id":  "PKG037",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 38",
+        "duration_hours":  4,
+        "is_active":  true,
+        "price":  "950.00",
+        "package_id":  "PKG038",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 39",
+        "duration_hours":  5,
+        "is_active":  true,
+        "price":  "1150.00",
+        "package_id":  "PKG039",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 40",
+        "duration_hours":  2,
+        "is_active":  true,
+        "price":  "550.00",
+        "package_id":  "PKG040",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 41",
+        "duration_hours":  3,
+        "is_active":  true,
+        "price":  "750.00",
+        "package_id":  "PKG041",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 42",
+        "duration_hours":  4,
+        "is_active":  true,
+        "price":  "950.00",
+        "package_id":  "PKG042",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 43",
+        "duration_hours":  5,
+        "is_active":  true,
+        "price":  "1150.00",
+        "package_id":  "PKG043",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 44",
+        "duration_hours":  2,
+        "is_active":  true,
+        "price":  "550.00",
+        "package_id":  "PKG044",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 45",
+        "duration_hours":  3,
+        "is_active":  true,
+        "price":  "750.00",
+        "package_id":  "PKG045",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 46",
+        "duration_hours":  4,
+        "is_active":  true,
+        "price":  "950.00",
+        "package_id":  "PKG046",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 47",
+        "duration_hours":  5,
+        "is_active":  true,
+        "price":  "1150.00",
+        "package_id":  "PKG047",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 48",
+        "duration_hours":  2,
+        "is_active":  true,
+        "price":  "550.00",
+        "package_id":  "PKG048",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 49",
+        "duration_hours":  3,
+        "is_active":  true,
+        "price":  "750.00",
+        "package_id":  "PKG049",
+        "description":  "High-tier promotional package including food platters and singing time."
+    },
+    {
+        "name":  "Mega Sing Bundle Tier 50",
+        "duration_hours":  4,
+        "is_active":  true,
+        "price":  "950.00",
+        "package_id":  "PKG050",
+        "description":  "High-tier promotional package including food platters and singing time."
     }
 ]

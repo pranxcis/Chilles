@@ -1,447 +1,402 @@
 [
     {
-        "room_id": "RM-20261102032301-39C3",
-        "name": "Standard Room 01",
-        "room_type": "Standard",
-        "capacity": 4,
-        "hourly_rate": 250.0,
-        "status": "Available",
-        "description": "Spacious Standard category room equipped for up to 2-4 guests.",
-        "facilities": [
-            "TV",
-            "Karaoke System",
-            "2 Microphones",
-            "Air Conditioning",
-            "Seating"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM001",
+        "name":  "Room 01",
+        "capacity":  6,
+        "hourly_rate":  "250.00",
+        "status":  "Occupied",
+        "room_type":  "Standard Suite"
     },
     {
-        "room_id": "RM-20261102032301-B814",
-        "name": "Standard Room 02",
-        "room_type": "Standard",
-        "capacity": 4,
-        "hourly_rate": 250.0,
-        "status": "Available",
-        "description": "Spacious Standard category room equipped for up to 2-4 guests.",
-        "facilities": [
-            "TV",
-            "Karaoke System",
-            "2 Microphones",
-            "Air Conditioning",
-            "Seating"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM002",
+        "name":  "Room 02",
+        "capacity":  12,
+        "hourly_rate":  "450.00",
+        "status":  "Occupied",
+        "room_type":  "Deluxe Suite"
     },
     {
-        "room_id": "RM-20261102032301-B73F",
-        "name": "Standard Room 03",
-        "room_type": "Standard",
-        "capacity": 4,
-        "hourly_rate": 250.0,
-        "status": "Available",
-        "description": "Spacious Standard category room equipped for up to 2-4 guests.",
-        "facilities": [
-            "TV",
-            "Karaoke System",
-            "2 Microphones",
-            "Air Conditioning",
-            "Seating"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM003",
+        "name":  "Room 03",
+        "capacity":  25,
+        "hourly_rate":  "850.00",
+        "status":  "Occupied",
+        "room_type":  "VIP Grand Suite"
     },
     {
-        "room_id": "RM-20261102032301-3AF8",
-        "name": "Standard Room 04",
-        "room_type": "Standard",
-        "capacity": 4,
-        "hourly_rate": 250.0,
-        "status": "Available",
-        "description": "Spacious Standard category room equipped for up to 2-4 guests.",
-        "facilities": [
-            "TV",
-            "Karaoke System",
-            "2 Microphones",
-            "Air Conditioning",
-            "Seating"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM004",
+        "name":  "Room 04",
+        "capacity":  6,
+        "hourly_rate":  "250.00",
+        "status":  "Occupied",
+        "room_type":  "Standard Suite"
     },
     {
-        "room_id": "RM-20261102032301-A8B3",
-        "name": "Standard Room 05",
-        "room_type": "Standard",
-        "capacity": 4,
-        "hourly_rate": 250.0,
-        "status": "Available",
-        "description": "Spacious Standard category room equipped for up to 2-4 guests.",
-        "facilities": [
-            "TV",
-            "Karaoke System",
-            "2 Microphones",
-            "Air Conditioning",
-            "Seating"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM005",
+        "name":  "Room 05",
+        "capacity":  12,
+        "hourly_rate":  "450.00",
+        "status":  "Occupied",
+        "room_type":  "Deluxe Suite"
     },
     {
-        "room_id": "RM-20261102032301-D058",
-        "name": "Medium Room 01",
-        "room_type": "Medium",
-        "capacity": 8,
-        "hourly_rate": 350.0,
-        "status": "Available",
-        "description": "Spacious Medium category room equipped for up to 5-8 guests.",
-        "facilities": [
-            "TV",
-            "Karaoke System",
-            "4 Microphones",
-            "Surround Speakers",
-            "Air Conditioning",
-            "Seating"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM006",
+        "name":  "Room 06",
+        "capacity":  25,
+        "hourly_rate":  "850.00",
+        "status":  "Occupied",
+        "room_type":  "VIP Grand Suite"
     },
     {
-        "room_id": "RM-20261102032301-B5C9",
-        "name": "Medium Room 02",
-        "room_type": "Medium",
-        "capacity": 8,
-        "hourly_rate": 350.0,
-        "status": "Available",
-        "description": "Spacious Medium category room equipped for up to 5-8 guests.",
-        "facilities": [
-            "TV",
-            "Karaoke System",
-            "4 Microphones",
-            "Surround Speakers",
-            "Air Conditioning",
-            "Seating"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM007",
+        "name":  "Room 07",
+        "capacity":  6,
+        "hourly_rate":  "250.00",
+        "status":  "Occupied",
+        "room_type":  "Standard Suite"
     },
     {
-        "room_id": "RM-20261102032301-DA0C",
-        "name": "Medium Room 03",
-        "room_type": "Medium",
-        "capacity": 8,
-        "hourly_rate": 350.0,
-        "status": "Available",
-        "description": "Spacious Medium category room equipped for up to 5-8 guests.",
-        "facilities": [
-            "TV",
-            "Karaoke System",
-            "4 Microphones",
-            "Surround Speakers",
-            "Air Conditioning",
-            "Seating"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM008",
+        "name":  "Room 08",
+        "capacity":  12,
+        "hourly_rate":  "450.00",
+        "status":  "Occupied",
+        "room_type":  "Deluxe Suite"
     },
     {
-        "room_id": "RM-20261102032301-AD87",
-        "name": "Medium Room 04",
-        "room_type": "Medium",
-        "capacity": 8,
-        "hourly_rate": 350.0,
-        "status": "Available",
-        "description": "Spacious Medium category room equipped for up to 5-8 guests.",
-        "facilities": [
-            "TV",
-            "Karaoke System",
-            "4 Microphones",
-            "Surround Speakers",
-            "Air Conditioning",
-            "Seating"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM009",
+        "name":  "Room 09",
+        "capacity":  25,
+        "hourly_rate":  "850.00",
+        "status":  "Occupied",
+        "room_type":  "VIP Grand Suite"
     },
     {
-        "room_id": "RM-20261102032301-0B7C",
-        "name": "Medium Room 05",
-        "room_type": "Medium",
-        "capacity": 8,
-        "hourly_rate": 350.0,
-        "status": "Available",
-        "description": "Spacious Medium category room equipped for up to 5-8 guests.",
-        "facilities": [
-            "TV",
-            "Karaoke System",
-            "4 Microphones",
-            "Surround Speakers",
-            "Air Conditioning",
-            "Seating"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM010",
+        "name":  "Room 10",
+        "capacity":  6,
+        "hourly_rate":  "250.00",
+        "status":  "Occupied",
+        "room_type":  "Standard Suite"
     },
     {
-        "room_id": "RM-20261102032301-F429",
-        "name": "Grand Room 01",
-        "room_type": "Grand",
-        "capacity": 12,
-        "hourly_rate": 500.0,
-        "status": "Available",
-        "description": "Spacious Grand category room equipped for up to 9-12 guests.",
-        "facilities": [
-            "Large TV",
-            "Professional Karaoke",
-            "4 Microphones",
-            "Premium Speakers",
-            "Air Conditioning",
-            "Lounge Seating"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM011",
+        "name":  "Room 11",
+        "capacity":  12,
+        "hourly_rate":  "450.00",
+        "status":  "Occupied",
+        "room_type":  "Deluxe Suite"
     },
     {
-        "room_id": "RM-20261102032301-1A80",
-        "name": "Grand Room 02",
-        "room_type": "Grand",
-        "capacity": 12,
-        "hourly_rate": 500.0,
-        "status": "Available",
-        "description": "Spacious Grand category room equipped for up to 9-12 guests.",
-        "facilities": [
-            "Large TV",
-            "Professional Karaoke",
-            "4 Microphones",
-            "Premium Speakers",
-            "Air Conditioning",
-            "Lounge Seating"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM012",
+        "name":  "Room 12",
+        "capacity":  25,
+        "hourly_rate":  "850.00",
+        "status":  "Occupied",
+        "room_type":  "VIP Grand Suite"
     },
     {
-        "room_id": "RM-20261102032301-3708",
-        "name": "Grand Room 03",
-        "room_type": "Grand",
-        "capacity": 12,
-        "hourly_rate": 500.0,
-        "status": "Available",
-        "description": "Spacious Grand category room equipped for up to 9-12 guests.",
-        "facilities": [
-            "Large TV",
-            "Professional Karaoke",
-            "4 Microphones",
-            "Premium Speakers",
-            "Air Conditioning",
-            "Lounge Seating"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM013",
+        "name":  "Room 13",
+        "capacity":  6,
+        "hourly_rate":  "250.00",
+        "status":  "Occupied",
+        "room_type":  "Standard Suite"
     },
     {
-        "room_id": "RM-20261102032301-C6D8",
-        "name": "Grand Room 04",
-        "room_type": "Grand",
-        "capacity": 12,
-        "hourly_rate": 500.0,
-        "status": "Available",
-        "description": "Spacious Grand category room equipped for up to 9-12 guests.",
-        "facilities": [
-            "Large TV",
-            "Professional Karaoke",
-            "4 Microphones",
-            "Premium Speakers",
-            "Air Conditioning",
-            "Lounge Seating"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM014",
+        "name":  "Room 14",
+        "capacity":  12,
+        "hourly_rate":  "450.00",
+        "status":  "Occupied",
+        "room_type":  "Deluxe Suite"
     },
     {
-        "room_id": "RM-20261102032301-B5FD",
-        "name": "Grand Room 05",
-        "room_type": "Grand",
-        "capacity": 12,
-        "hourly_rate": 500.0,
-        "status": "Available",
-        "description": "Spacious Grand category room equipped for up to 9-12 guests.",
-        "facilities": [
-            "Large TV",
-            "Professional Karaoke",
-            "4 Microphones",
-            "Premium Speakers",
-            "Air Conditioning",
-            "Lounge Seating"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM015",
+        "name":  "Room 15",
+        "capacity":  25,
+        "hourly_rate":  "850.00",
+        "status":  "Occupied",
+        "room_type":  "VIP Grand Suite"
     },
     {
-        "room_id": "RM-20261102032301-701B",
-        "name": "VIP Room 01",
-        "room_type": "VIP",
-        "capacity": 18,
-        "hourly_rate": 700.0,
-        "status": "Available",
-        "description": "Spacious VIP category room equipped for up to 13-18 guests.",
-        "facilities": [
-            "Ultra HD Screen",
-            "Premium Karaoke",
-            "6 Microphones",
-            "Stage Lighting",
-            "Air Conditioning",
-            "Private Restroom"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM016",
+        "name":  "Room 16",
+        "capacity":  6,
+        "hourly_rate":  "250.00",
+        "status":  "Available",
+        "room_type":  "Standard Suite"
     },
     {
-        "room_id": "RM-20261102032301-FDA5",
-        "name": "VIP Room 02",
-        "room_type": "VIP",
-        "capacity": 18,
-        "hourly_rate": 700.0,
-        "status": "Available",
-        "description": "Spacious VIP category room equipped for up to 13-18 guests.",
-        "facilities": [
-            "Ultra HD Screen",
-            "Premium Karaoke",
-            "6 Microphones",
-            "Stage Lighting",
-            "Air Conditioning",
-            "Private Restroom"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM017",
+        "name":  "Room 17",
+        "capacity":  12,
+        "hourly_rate":  "450.00",
+        "status":  "Available",
+        "room_type":  "Deluxe Suite"
     },
     {
-        "room_id": "RM-20261102032301-9CB1",
-        "name": "VIP Room 03",
-        "room_type": "VIP",
-        "capacity": 18,
-        "hourly_rate": 700.0,
-        "status": "Available",
-        "description": "Spacious VIP category room equipped for up to 13-18 guests.",
-        "facilities": [
-            "Ultra HD Screen",
-            "Premium Karaoke",
-            "6 Microphones",
-            "Stage Lighting",
-            "Air Conditioning",
-            "Private Restroom"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM018",
+        "name":  "Room 18",
+        "capacity":  25,
+        "hourly_rate":  "850.00",
+        "status":  "Available",
+        "room_type":  "VIP Grand Suite"
     },
     {
-        "room_id": "RM-20261102032301-9B89",
-        "name": "VIP Room 04",
-        "room_type": "VIP",
-        "capacity": 18,
-        "hourly_rate": 700.0,
-        "status": "Available",
-        "description": "Spacious VIP category room equipped for up to 13-18 guests.",
-        "facilities": [
-            "Ultra HD Screen",
-            "Premium Karaoke",
-            "6 Microphones",
-            "Stage Lighting",
-            "Air Conditioning",
-            "Private Restroom"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM019",
+        "name":  "Room 19",
+        "capacity":  6,
+        "hourly_rate":  "250.00",
+        "status":  "Available",
+        "room_type":  "Standard Suite"
     },
     {
-        "room_id": "RM-20261102032301-0923",
-        "name": "VIP Room 05",
-        "room_type": "VIP",
-        "capacity": 18,
-        "hourly_rate": 700.0,
-        "status": "Available",
-        "description": "Spacious VIP category room equipped for up to 13-18 guests.",
-        "facilities": [
-            "Ultra HD Screen",
-            "Premium Karaoke",
-            "6 Microphones",
-            "Stage Lighting",
-            "Air Conditioning",
-            "Private Restroom"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM020",
+        "name":  "Room 20",
+        "capacity":  12,
+        "hourly_rate":  "450.00",
+        "status":  "Available",
+        "room_type":  "Deluxe Suite"
     },
     {
-        "room_id": "RM-20261102032301-063B",
-        "name": "VVIP Room 01",
-        "room_type": "VVIP",
-        "capacity": 25,
-        "hourly_rate": 1000.0,
-        "status": "Available",
-        "description": "Spacious VVIP category room equipped for up to 19-25 guests.",
-        "facilities": [
-            "Theater Display",
-            "Master Audio Suite",
-            "6 Wireless Mics",
-            "Lighting System",
-            "Refrigerator",
-            "Private Restroom"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM021",
+        "name":  "Room 21",
+        "capacity":  25,
+        "hourly_rate":  "850.00",
+        "status":  "Available",
+        "room_type":  "VIP Grand Suite"
     },
     {
-        "room_id": "RM-20261102032301-A2F5",
-        "name": "VVIP Room 02",
-        "room_type": "VVIP",
-        "capacity": 25,
-        "hourly_rate": 1000.0,
-        "status": "Available",
-        "description": "Spacious VVIP category room equipped for up to 19-25 guests.",
-        "facilities": [
-            "Theater Display",
-            "Master Audio Suite",
-            "6 Wireless Mics",
-            "Lighting System",
-            "Refrigerator",
-            "Private Restroom"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM022",
+        "name":  "Room 22",
+        "capacity":  6,
+        "hourly_rate":  "250.00",
+        "status":  "Available",
+        "room_type":  "Standard Suite"
     },
     {
-        "room_id": "RM-20261102032301-396F",
-        "name": "VVIP Room 03",
-        "room_type": "VVIP",
-        "capacity": 25,
-        "hourly_rate": 1000.0,
-        "status": "Available",
-        "description": "Spacious VVIP category room equipped for up to 19-25 guests.",
-        "facilities": [
-            "Theater Display",
-            "Master Audio Suite",
-            "6 Wireless Mics",
-            "Lighting System",
-            "Refrigerator",
-            "Private Restroom"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM023",
+        "name":  "Room 23",
+        "capacity":  12,
+        "hourly_rate":  "450.00",
+        "status":  "Available",
+        "room_type":  "Deluxe Suite"
     },
     {
-        "room_id": "RM-20261102032301-6CB0",
-        "name": "VVIP Room 04",
-        "room_type": "VVIP",
-        "capacity": 25,
-        "hourly_rate": 1000.0,
-        "status": "Available",
-        "description": "Spacious VVIP category room equipped for up to 19-25 guests.",
-        "facilities": [
-            "Theater Display",
-            "Master Audio Suite",
-            "6 Wireless Mics",
-            "Lighting System",
-            "Refrigerator",
-            "Private Restroom"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM024",
+        "name":  "Room 24",
+        "capacity":  25,
+        "hourly_rate":  "850.00",
+        "status":  "Available",
+        "room_type":  "VIP Grand Suite"
     },
     {
-        "room_id": "RM-20261102032301-CF81",
-        "name": "VVIP Room 05",
-        "room_type": "VVIP",
-        "capacity": 25,
-        "hourly_rate": 1000.0,
-        "status": "Available",
-        "description": "Spacious VVIP category room equipped for up to 19-25 guests.",
-        "facilities": [
-            "Theater Display",
-            "Master Audio Suite",
-            "6 Wireless Mics",
-            "Lighting System",
-            "Refrigerator",
-            "Private Restroom"
-        ],
-        "created_at": "2026-11-02 03:23:01"
+        "room_id":  "RM025",
+        "name":  "Room 25",
+        "capacity":  6,
+        "hourly_rate":  "250.00",
+        "status":  "Available",
+        "room_type":  "Standard Suite"
+    },
+    {
+        "room_id":  "RM026",
+        "name":  "Room 26",
+        "capacity":  12,
+        "hourly_rate":  "450.00",
+        "status":  "Available",
+        "room_type":  "Deluxe Suite"
+    },
+    {
+        "room_id":  "RM027",
+        "name":  "Room 27",
+        "capacity":  25,
+        "hourly_rate":  "850.00",
+        "status":  "Available",
+        "room_type":  "VIP Grand Suite"
+    },
+    {
+        "room_id":  "RM028",
+        "name":  "Room 28",
+        "capacity":  6,
+        "hourly_rate":  "250.00",
+        "status":  "Available",
+        "room_type":  "Standard Suite"
+    },
+    {
+        "room_id":  "RM029",
+        "name":  "Room 29",
+        "capacity":  12,
+        "hourly_rate":  "450.00",
+        "status":  "Available",
+        "room_type":  "Deluxe Suite"
+    },
+    {
+        "room_id":  "RM030",
+        "name":  "Room 30",
+        "capacity":  25,
+        "hourly_rate":  "850.00",
+        "status":  "Available",
+        "room_type":  "VIP Grand Suite"
+    },
+    {
+        "room_id":  "RM031",
+        "name":  "Room 31",
+        "capacity":  6,
+        "hourly_rate":  "250.00",
+        "status":  "Available",
+        "room_type":  "Standard Suite"
+    },
+    {
+        "room_id":  "RM032",
+        "name":  "Room 32",
+        "capacity":  12,
+        "hourly_rate":  "450.00",
+        "status":  "Available",
+        "room_type":  "Deluxe Suite"
+    },
+    {
+        "room_id":  "RM033",
+        "name":  "Room 33",
+        "capacity":  25,
+        "hourly_rate":  "850.00",
+        "status":  "Available",
+        "room_type":  "VIP Grand Suite"
+    },
+    {
+        "room_id":  "RM034",
+        "name":  "Room 34",
+        "capacity":  6,
+        "hourly_rate":  "250.00",
+        "status":  "Available",
+        "room_type":  "Standard Suite"
+    },
+    {
+        "room_id":  "RM035",
+        "name":  "Room 35",
+        "capacity":  12,
+        "hourly_rate":  "450.00",
+        "status":  "Available",
+        "room_type":  "Deluxe Suite"
+    },
+    {
+        "room_id":  "RM036",
+        "name":  "Room 36",
+        "capacity":  25,
+        "hourly_rate":  "850.00",
+        "status":  "Available",
+        "room_type":  "VIP Grand Suite"
+    },
+    {
+        "room_id":  "RM037",
+        "name":  "Room 37",
+        "capacity":  6,
+        "hourly_rate":  "250.00",
+        "status":  "Available",
+        "room_type":  "Standard Suite"
+    },
+    {
+        "room_id":  "RM038",
+        "name":  "Room 38",
+        "capacity":  12,
+        "hourly_rate":  "450.00",
+        "status":  "Available",
+        "room_type":  "Deluxe Suite"
+    },
+    {
+        "room_id":  "RM039",
+        "name":  "Room 39",
+        "capacity":  25,
+        "hourly_rate":  "850.00",
+        "status":  "Available",
+        "room_type":  "VIP Grand Suite"
+    },
+    {
+        "room_id":  "RM040",
+        "name":  "Room 40",
+        "capacity":  6,
+        "hourly_rate":  "250.00",
+        "status":  "Available",
+        "room_type":  "Standard Suite"
+    },
+    {
+        "room_id":  "RM041",
+        "name":  "Room 41",
+        "capacity":  12,
+        "hourly_rate":  "450.00",
+        "status":  "Available",
+        "room_type":  "Deluxe Suite"
+    },
+    {
+        "room_id":  "RM042",
+        "name":  "Room 42",
+        "capacity":  25,
+        "hourly_rate":  "850.00",
+        "status":  "Available",
+        "room_type":  "VIP Grand Suite"
+    },
+    {
+        "room_id":  "RM043",
+        "name":  "Room 43",
+        "capacity":  6,
+        "hourly_rate":  "250.00",
+        "status":  "Available",
+        "room_type":  "Standard Suite"
+    },
+    {
+        "room_id":  "RM044",
+        "name":  "Room 44",
+        "capacity":  12,
+        "hourly_rate":  "450.00",
+        "status":  "Available",
+        "room_type":  "Deluxe Suite"
+    },
+    {
+        "room_id":  "RM045",
+        "name":  "Room 45",
+        "capacity":  25,
+        "hourly_rate":  "850.00",
+        "status":  "Available",
+        "room_type":  "VIP Grand Suite"
+    },
+    {
+        "room_id":  "RM046",
+        "name":  "Room 46",
+        "capacity":  6,
+        "hourly_rate":  "250.00",
+        "status":  "Available",
+        "room_type":  "Standard Suite"
+    },
+    {
+        "room_id":  "RM047",
+        "name":  "Room 47",
+        "capacity":  12,
+        "hourly_rate":  "450.00",
+        "status":  "Available",
+        "room_type":  "Deluxe Suite"
+    },
+    {
+        "room_id":  "RM048",
+        "name":  "Room 48",
+        "capacity":  25,
+        "hourly_rate":  "850.00",
+        "status":  "Available",
+        "room_type":  "VIP Grand Suite"
+    },
+    {
+        "room_id":  "RM049",
+        "name":  "Room 49",
+        "capacity":  6,
+        "hourly_rate":  "250.00",
+        "status":  "Available",
+        "room_type":  "Standard Suite"
+    },
+    {
+        "room_id":  "RM050",
+        "name":  "Room 50",
+        "capacity":  12,
+        "hourly_rate":  "450.00",
+        "status":  "Available",
+        "room_type":  "Deluxe Suite"
     }
 ]

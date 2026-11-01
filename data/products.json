@@ -1,137 +1,402 @@
 [
     {
-        "product_id": "PRD-20261102032311-D36A",
-        "name": "French Fries Platter",
-        "category": "Snacks and Appetizers",
-        "price": "180.00",
-        "description": "Crispy golden potato fries with cheese dip",
-        "is_available": true,
-        "image_path": ""
+        "name":  "Crispy Fries 1",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "112.00",
+        "category":  "Snacks and Appetizers",
+        "product_id":  "PRD001"
     },
     {
-        "product_id": "PRD-20261102032311-25D8",
-        "name": "Loaded Nachos",
-        "category": "Snacks and Appetizers",
-        "price": "250.00",
-        "description": "Tortilla chips with ground beef, cheese sauce, and salsa",
-        "is_available": true,
-        "image_path": ""
+        "name":  "Spicy Nachos 2",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "124.00",
+        "category":  "Rice Meals",
+        "product_id":  "PRD002"
     },
     {
-        "product_id": "PRD-20261102032311-9F3F",
-        "name": "Sizzling Pork Sisig",
-        "category": "Rice Meals",
-        "price": "220.00",
-        "description": "Served with steamed rice and fried egg",
-        "is_available": true,
-        "image_path": ""
+        "name":  "Loaded Sisig 3",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "136.00",
+        "category":  "Pasta and Sharing",
+        "product_id":  "PRD003"
     },
     {
-        "product_id": "PRD-20261102032311-91B2",
-        "name": "Chicken Tenders with Rice",
-        "category": "Rice Meals",
-        "price": "200.00",
-        "description": "Breaded chicken strips with gravy and rice",
-        "is_available": true,
-        "image_path": ""
+        "name":  "Sizzling Wings 4",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "148.00",
+        "category":  "Packaged Snacks",
+        "product_id":  "PRD004"
     },
     {
-        "product_id": "PRD-20261102032311-AA75",
-        "name": "Spaghetti Bolognese",
-        "category": "Pasta and Sharing",
-        "price": "280.00",
-        "description": "Classic beef bolognese pasta for sharing",
-        "is_available": true,
-        "image_path": ""
+        "name":  "Cheesy Burgers 5",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "160.00",
+        "category":  "Soft Drinks",
+        "product_id":  "PRD005"
     },
     {
-        "product_id": "PRD-20261102032311-7220",
-        "name": "Carbonara Platter",
-        "category": "Pasta and Sharing",
-        "price": "320.00",
-        "description": "Creamy bacon and mushroom pasta",
-        "is_available": true,
-        "image_path": ""
+        "name":  "Special Pizza 6",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "172.00",
+        "category":  "Juices and Water",
+        "product_id":  "PRD006"
     },
     {
-        "product_id": "PRD-20261102032311-A0E9",
-        "name": "Assorted Potato Chips",
-        "category": "Packaged Snacks",
-        "price": "80.00",
-        "description": "Choice of salted or sour cream chips",
-        "is_available": true,
-        "image_path": ""
+        "name":  "Classic Spaghetti 7",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "184.00",
+        "category":  "Coffee and Specialty Drinks",
+        "product_id":  "PRD007"
     },
     {
-        "product_id": "PRD-20261102032311-28A6",
-        "name": "Coke (330ml Can)",
-        "category": "Soft Drinks",
-        "price": "60.00",
-        "description": "Chilled soda can",
-        "is_available": true,
-        "image_path": ""
+        "name":  "Sweet Carbonara 8",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "196.00",
+        "category":  "Desserts",
+        "product_id":  "PRD008"
     },
     {
-        "product_id": "PRD-20261102032311-1699",
-        "name": "Sprite (330ml Can)",
-        "category": "Soft Drinks",
-        "price": "60.00",
-        "description": "Chilled lemon-lime soda",
-        "is_available": true,
-        "image_path": ""
+        "name":  "Creamy Bulalo 9",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "208.00",
+        "category":  "Snacks and Appetizers",
+        "product_id":  "PRD009"
     },
     {
-        "product_id": "PRD-20261102032311-FC0D",
-        "name": "Iced Lemon Tea",
-        "category": "Juices and Water",
-        "price": "75.00",
-        "description": "Refreshing iced tea pitcher",
-        "is_available": true,
-        "image_path": ""
+        "name":  "Garlic Pancit 10",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "220.00",
+        "category":  "Rice Meals",
+        "product_id":  "PRD010"
     },
     {
-        "product_id": "PRD-20261102032311-BEF6",
-        "name": "Bottled Mineral Water",
-        "category": "Juices and Water",
-        "price": "35.00",
-        "description": "500ml purified drinking water",
-        "is_available": true,
-        "image_path": ""
+        "name":  "Crispy Fries 11",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "232.00",
+        "category":  "Pasta and Sharing",
+        "product_id":  "PRD011"
     },
     {
-        "product_id": "PRD-20261102032311-A7AB",
-        "name": "Iced Americano",
-        "category": "Coffee and Specialty Drinks",
-        "price": "110.00",
-        "description": "Espresso over ice",
-        "is_available": true,
-        "image_path": ""
+        "name":  "Spicy Nachos 12",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "244.00",
+        "category":  "Packaged Snacks",
+        "product_id":  "PRD012"
     },
     {
-        "product_id": "PRD-20261102032311-E47A",
-        "name": "Classic Milk Tea",
-        "category": "Coffee and Specialty Drinks",
-        "price": "130.00",
-        "description": "With tapioca pearls",
-        "is_available": true,
-        "image_path": ""
+        "name":  "Loaded Sisig 13",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "256.00",
+        "category":  "Soft Drinks",
+        "product_id":  "PRD013"
     },
     {
-        "product_id": "PRD-20261102032311-31DC",
-        "name": "Chocolate Sundae",
-        "category": "Desserts",
-        "price": "120.00",
-        "description": "Vanilla ice cream with rich chocolate syrup",
-        "is_available": true,
-        "image_path": ""
+        "name":  "Sizzling Wings 14",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "268.00",
+        "category":  "Juices and Water",
+        "product_id":  "PRD014"
     },
     {
-        "product_id": "PRD-20261102043908-709E",
-        "name": "Sprite Canned",
-        "category": "Soft Drinks",
-        "price": "50.00",
-        "description": "",
-        "is_available": true,
-        "image_path": ""
+        "name":  "Cheesy Burgers 15",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "280.00",
+        "category":  "Coffee and Specialty Drinks",
+        "product_id":  "PRD015"
+    },
+    {
+        "name":  "Special Pizza 16",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "292.00",
+        "category":  "Desserts",
+        "product_id":  "PRD016"
+    },
+    {
+        "name":  "Classic Spaghetti 17",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "304.00",
+        "category":  "Snacks and Appetizers",
+        "product_id":  "PRD017"
+    },
+    {
+        "name":  "Sweet Carbonara 18",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "316.00",
+        "category":  "Rice Meals",
+        "product_id":  "PRD018"
+    },
+    {
+        "name":  "Creamy Bulalo 19",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "328.00",
+        "category":  "Pasta and Sharing",
+        "product_id":  "PRD019"
+    },
+    {
+        "name":  "Garlic Pancit 20",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "340.00",
+        "category":  "Packaged Snacks",
+        "product_id":  "PRD020"
+    },
+    {
+        "name":  "Crispy Fries 21",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "352.00",
+        "category":  "Soft Drinks",
+        "product_id":  "PRD021"
+    },
+    {
+        "name":  "Spicy Nachos 22",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "364.00",
+        "category":  "Juices and Water",
+        "product_id":  "PRD022"
+    },
+    {
+        "name":  "Loaded Sisig 23",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "376.00",
+        "category":  "Coffee and Specialty Drinks",
+        "product_id":  "PRD023"
+    },
+    {
+        "name":  "Sizzling Wings 24",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "388.00",
+        "category":  "Desserts",
+        "product_id":  "PRD024"
+    },
+    {
+        "name":  "Cheesy Burgers 25",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "400.00",
+        "category":  "Snacks and Appetizers",
+        "product_id":  "PRD025"
+    },
+    {
+        "name":  "Special Pizza 26",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "412.00",
+        "category":  "Rice Meals",
+        "product_id":  "PRD026"
+    },
+    {
+        "name":  "Classic Spaghetti 27",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "424.00",
+        "category":  "Pasta and Sharing",
+        "product_id":  "PRD027"
+    },
+    {
+        "name":  "Sweet Carbonara 28",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "436.00",
+        "category":  "Packaged Snacks",
+        "product_id":  "PRD028"
+    },
+    {
+        "name":  "Creamy Bulalo 29",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "448.00",
+        "category":  "Soft Drinks",
+        "product_id":  "PRD029"
+    },
+    {
+        "name":  "Garlic Pancit 30",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "460.00",
+        "category":  "Juices and Water",
+        "product_id":  "PRD030"
+    },
+    {
+        "name":  "Crispy Fries 31",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "472.00",
+        "category":  "Coffee and Specialty Drinks",
+        "product_id":  "PRD031"
+    },
+    {
+        "name":  "Spicy Nachos 32",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "484.00",
+        "category":  "Desserts",
+        "product_id":  "PRD032"
+    },
+    {
+        "name":  "Loaded Sisig 33",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "496.00",
+        "category":  "Snacks and Appetizers",
+        "product_id":  "PRD033"
+    },
+    {
+        "name":  "Sizzling Wings 34",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "508.00",
+        "category":  "Rice Meals",
+        "product_id":  "PRD034"
+    },
+    {
+        "name":  "Cheesy Burgers 35",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "520.00",
+        "category":  "Pasta and Sharing",
+        "product_id":  "PRD035"
+    },
+    {
+        "name":  "Special Pizza 36",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "532.00",
+        "category":  "Packaged Snacks",
+        "product_id":  "PRD036"
+    },
+    {
+        "name":  "Classic Spaghetti 37",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "544.00",
+        "category":  "Soft Drinks",
+        "product_id":  "PRD037"
+    },
+    {
+        "name":  "Sweet Carbonara 38",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "556.00",
+        "category":  "Juices and Water",
+        "product_id":  "PRD038"
+    },
+    {
+        "name":  "Creamy Bulalo 39",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "568.00",
+        "category":  "Coffee and Specialty Drinks",
+        "product_id":  "PRD039"
+    },
+    {
+        "name":  "Garlic Pancit 40",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "580.00",
+        "category":  "Desserts",
+        "product_id":  "PRD040"
+    },
+    {
+        "name":  "Crispy Fries 41",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "592.00",
+        "category":  "Snacks and Appetizers",
+        "product_id":  "PRD041"
+    },
+    {
+        "name":  "Spicy Nachos 42",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "604.00",
+        "category":  "Rice Meals",
+        "product_id":  "PRD042"
+    },
+    {
+        "name":  "Loaded Sisig 43",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "616.00",
+        "category":  "Pasta and Sharing",
+        "product_id":  "PRD043"
+    },
+    {
+        "name":  "Sizzling Wings 44",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "628.00",
+        "category":  "Packaged Snacks",
+        "product_id":  "PRD044"
+    },
+    {
+        "name":  "Cheesy Burgers 45",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "640.00",
+        "category":  "Soft Drinks",
+        "product_id":  "PRD045"
+    },
+    {
+        "name":  "Special Pizza 46",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "652.00",
+        "category":  "Juices and Water",
+        "product_id":  "PRD046"
+    },
+    {
+        "name":  "Classic Spaghetti 47",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "664.00",
+        "category":  "Coffee and Specialty Drinks",
+        "product_id":  "PRD047"
+    },
+    {
+        "name":  "Sweet Carbonara 48",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "676.00",
+        "category":  "Desserts",
+        "product_id":  "PRD048"
+    },
+    {
+        "name":  "Creamy Bulalo 49",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "688.00",
+        "category":  "Snacks and Appetizers",
+        "product_id":  "PRD049"
+    },
+    {
+        "name":  "Garlic Pancit 50",
+        "is_available":  true,
+        "description":  "Freshly prepared KTV lounge specialty item.",
+        "price":  "700.00",
+        "category":  "Rice Meals",
+        "product_id":  "PRD050"
     }
 ]

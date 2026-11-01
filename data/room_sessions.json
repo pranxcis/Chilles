@@ -1,199 +1,1252 @@
 [
     {
-        "session_id": "SES-20261102041735-F227",
-        "room_id": "RM-20261102032301-39C3",
-        "customer_id": "CUST-20261102032348-F151",
-        "start_time": "2026-11-02 04:17:35",
-        "duration_hours": 6.0,
-        "end_time": "2026-11-02 10:17:35",
-        "hourly_rate": "250.0",
-        "package_id": "PKG-20261102032313-8A5A",
-        "status": "Completed",
-        "orders": [
-            {
-                "product_id": "PRD-20261102032311-A7AB",
-                "name": "Iced Americano",
-                "price": "110.00",
-                "quantity": 1,
-                "subtotal": "110.00"
-            }
-        ],
-        "rental_amount": "1500.00",
-        "food_amount": "110.00",
-        "overtime_minutes": 0,
-        "overtime_amount": "0.00",
-        "total_amount": "1610.00"
+        "hourly_rate":  "250.00",
+        "room_id":  "RM002",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-02 05:29:39",
+        "package_id":  "",
+        "end_time":  "2026-11-02 08:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST002",
+        "status":  "Active",
+        "total_amount":  "1110.00",
+        "session_id":  "SES001",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
     },
     {
-        "session_id": "SES-20261102042623-C2DF",
-        "room_id": "RM-20261102032301-39C3",
-        "customer_id": "CUST-20261102032348-F151",
-        "start_time": "2026-11-02 04:26:23",
-        "duration_hours": 3.0,
-        "end_time": "2026-11-02 07:26:23",
-        "hourly_rate": "250.0",
-        "package_id": "",
-        "status": "Completed",
-        "orders": [
-            {
-                "product_id": "PRD-20261102032311-A7AB",
-                "name": "Iced Americano",
-                "price": "110.00",
-                "quantity": 1,
-                "subtotal": "110.00"
-            },
-            {
-                "product_id": "PRD-20261102032311-7220",
-                "name": "Carbonara Platter",
-                "price": "320.00",
-                "quantity": 1,
-                "subtotal": "320.00"
-            },
-            {
-                "product_id": "PRD-20261102032311-28A6",
-                "name": "Coke (330ml Can)",
-                "price": "60.00",
-                "quantity": 1,
-                "subtotal": "60.00"
-            },
-            {
-                "product_id": "PRD-20261102032311-FC0D",
-                "name": "Iced Lemon Tea",
-                "price": "75.00",
-                "quantity": 1,
-                "subtotal": "75.00"
-            },
-            {
-                "product_id": "PRD-20261102043908-709E",
-                "name": "Sprite Canned",
-                "price": "50.00",
-                "quantity": 1,
-                "subtotal": "50.00"
-            },
-            {
-                "product_id": "PRD-20261102032311-28A6",
-                "name": "Coke (330ml Can)",
-                "price": "60.00",
-                "quantity": 1,
-                "subtotal": "60.00"
-            },
-            {
-                "product_id": "PRD-20261102032311-1699",
-                "name": "Sprite (330ml Can)",
-                "price": "60.00",
-                "quantity": 1,
-                "subtotal": "60.00"
-            },
-            {
-                "product_id": "PRD-20261102032311-7220",
-                "name": "Carbonara Platter",
-                "price": "320.00",
-                "quantity": 1,
-                "subtotal": "320.00"
-            },
-            {
-                "product_id": "PRD-20261102032311-AA75",
-                "name": "Spaghetti Bolognese",
-                "price": "280.00",
-                "quantity": 1,
-                "subtotal": "280.00"
-            },
-            {
-                "product_id": "PRD-20261102032311-D36A",
-                "name": "French Fries Platter",
-                "price": "180.00",
-                "quantity": 1,
-                "subtotal": "180.00"
-            }
-        ],
-        "rental_amount": "750.00",
-        "food_amount": "1515.00",
-        "overtime_minutes": 0,
-        "overtime_amount": "0.00",
-        "total_amount": "2265.00"
+        "hourly_rate":  "250.00",
+        "room_id":  "RM003",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-02 04:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-11-02 07:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST003",
+        "status":  "Active",
+        "total_amount":  "1110.00",
+        "session_id":  "SES002",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
     },
     {
-        "session_id": "SES-20261102052644-BBA0",
-        "room_id": "RM-20261102032301-B814",
-        "customer_id": "CUST-20261102032348-F151",
-        "start_time": "2026-11-02 05:26:44",
-        "duration_hours": 3.0,
-        "end_time": "2026-11-02 08:26:44",
-        "hourly_rate": "250.0",
-        "package_id": "",
-        "status": "Completed",
-        "orders": [],
-        "rental_amount": "750.00",
-        "food_amount": "0",
-        "overtime_minutes": 0,
-        "overtime_amount": "0.00",
-        "total_amount": "750.00"
+        "hourly_rate":  "250.00",
+        "room_id":  "RM004",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-02 03:29:39",
+        "package_id":  "",
+        "end_time":  "2026-11-02 06:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST004",
+        "status":  "Active",
+        "total_amount":  "1110.00",
+        "session_id":  "SES003",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
     },
     {
-        "session_id": "SES-20261102052735-1B63",
-        "room_id": "RM-20261102032301-39C3",
-        "customer_id": "CUST-20261102032348-F151",
-        "start_time": "2026-11-02 05:27:35",
-        "duration_hours": 4.0,
-        "end_time": "2026-11-02 09:27:35",
-        "hourly_rate": "250.0",
-        "package_id": "",
-        "status": "Completed",
-        "orders": [
-            {
-                "product_id": "PRD-20261102032311-9F3F",
-                "name": "Sizzling Pork Sisig",
-                "price": "220.00",
-                "quantity": 1,
-                "subtotal": "220.00"
-            }
-        ],
-        "rental_amount": "1000.00",
-        "food_amount": "220.00",
-        "overtime_minutes": 0,
-        "overtime_amount": "0.00",
-        "total_amount": "1220.00"
+        "hourly_rate":  "250.00",
+        "room_id":  "RM005",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-02 02:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-11-02 05:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST005",
+        "status":  "Active",
+        "total_amount":  "1110.00",
+        "session_id":  "SES004",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
     },
     {
-        "session_id": "SES-20261102054100-8D07",
-        "room_id": "RM-20261102032301-CF81",
-        "customer_id": "CUST-20261102032348-F151",
-        "start_time": "2026-11-02 05:41:00",
-        "duration_hours": 5.0,
-        "end_time": "2026-11-02 10:41:00",
-        "hourly_rate": "1000.0",
-        "package_id": "",
-        "status": "Completed",
-        "orders": [
-            {
-                "product_id": "PRD-20261102032311-D36A",
-                "name": "French Fries Platter",
-                "price": "180.00",
-                "quantity": 1,
-                "subtotal": "180.00"
-            }
-        ],
-        "rental_amount": "5000.00",
-        "food_amount": "180.00",
-        "overtime_minutes": 0,
-        "overtime_amount": "0.00",
-        "total_amount": "5180.00"
+        "hourly_rate":  "250.00",
+        "room_id":  "RM006",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-02 01:29:39",
+        "package_id":  "",
+        "end_time":  "2026-11-02 04:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST006",
+        "status":  "Active",
+        "total_amount":  "1110.00",
+        "session_id":  "SES005",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
     },
     {
-        "session_id": "SES-20261102054634-3605",
-        "room_id": "RM-20261102032301-3AF8",
-        "customer_id": "CUST-20261102032348-F151",
-        "start_time": "2026-11-02 05:46:34",
-        "duration_hours": 3.0,
-        "end_time": "2026-11-02 08:46:34",
-        "hourly_rate": "250.0",
-        "package_id": "",
-        "status": "Completed",
-        "orders": [],
-        "rental_amount": "750.00",
-        "food_amount": "0",
-        "overtime_minutes": 0,
-        "overtime_amount": "0.00",
-        "total_amount": "750.00"
+        "hourly_rate":  "250.00",
+        "room_id":  "RM007",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-02 00:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-11-02 03:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST007",
+        "status":  "Active",
+        "total_amount":  "1110.00",
+        "session_id":  "SES006",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM008",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 23:29:39",
+        "package_id":  "",
+        "end_time":  "2026-11-02 02:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST008",
+        "status":  "Active",
+        "total_amount":  "1110.00",
+        "session_id":  "SES007",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM009",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 22:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-11-02 01:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST009",
+        "status":  "Active",
+        "total_amount":  "1110.00",
+        "session_id":  "SES008",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM010",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 21:29:39",
+        "package_id":  "",
+        "end_time":  "2026-11-02 00:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST010",
+        "status":  "Active",
+        "total_amount":  "1110.00",
+        "session_id":  "SES009",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM011",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 20:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-11-01 23:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST011",
+        "status":  "Active",
+        "total_amount":  "1110.00",
+        "session_id":  "SES010",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM012",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 19:29:39",
+        "package_id":  "",
+        "end_time":  "2026-11-01 22:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST012",
+        "status":  "Active",
+        "total_amount":  "1110.00",
+        "session_id":  "SES011",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM013",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 18:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-11-01 21:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST013",
+        "status":  "Active",
+        "total_amount":  "1110.00",
+        "session_id":  "SES012",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM014",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 17:29:39",
+        "package_id":  "",
+        "end_time":  "2026-11-01 20:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST014",
+        "status":  "Active",
+        "total_amount":  "1110.00",
+        "session_id":  "SES013",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM015",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 16:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-11-01 19:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST015",
+        "status":  "Active",
+        "total_amount":  "1110.00",
+        "session_id":  "SES014",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM016",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 15:29:39",
+        "package_id":  "",
+        "end_time":  "2026-11-01 18:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST016",
+        "status":  "Active",
+        "total_amount":  "1110.00",
+        "session_id":  "SES015",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM017",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 14:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-11-01 17:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST017",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES016",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM018",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 13:29:39",
+        "package_id":  "",
+        "end_time":  "2026-11-01 16:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST018",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES017",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM019",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 12:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-11-01 15:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST019",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES018",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM020",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 11:29:39",
+        "package_id":  "",
+        "end_time":  "2026-11-01 14:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST020",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES019",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM021",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 10:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-11-01 13:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST021",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES020",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM022",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 09:29:39",
+        "package_id":  "",
+        "end_time":  "2026-11-01 12:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST022",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES021",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM023",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 08:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-11-01 11:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST023",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES022",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM024",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 07:29:39",
+        "package_id":  "",
+        "end_time":  "2026-11-01 10:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST024",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES023",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM025",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 06:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-11-01 09:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST025",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES024",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM026",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 05:29:39",
+        "package_id":  "",
+        "end_time":  "2026-11-01 08:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST026",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES025",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM027",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 04:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-11-01 07:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST027",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES026",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM028",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 03:29:39",
+        "package_id":  "",
+        "end_time":  "2026-11-01 06:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST028",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES027",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM029",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 02:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-11-01 05:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST029",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES028",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM030",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 01:29:39",
+        "package_id":  "",
+        "end_time":  "2026-11-01 04:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST030",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES029",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM031",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-11-01 00:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-11-01 03:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST031",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES030",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM032",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-10-31 23:29:39",
+        "package_id":  "",
+        "end_time":  "2026-11-01 02:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST032",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES031",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM033",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-10-31 22:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-11-01 01:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST033",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES032",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM034",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-10-31 21:29:39",
+        "package_id":  "",
+        "end_time":  "2026-11-01 00:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST034",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES033",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM035",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-10-31 20:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-10-31 23:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST035",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES034",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM036",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-10-31 19:29:39",
+        "package_id":  "",
+        "end_time":  "2026-10-31 22:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST036",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES035",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM037",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-10-31 18:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-10-31 21:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST037",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES036",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM038",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-10-31 17:29:39",
+        "package_id":  "",
+        "end_time":  "2026-10-31 20:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST038",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES037",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM039",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-10-31 16:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-10-31 19:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST039",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES038",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM040",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-10-31 15:29:39",
+        "package_id":  "",
+        "end_time":  "2026-10-31 18:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST040",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES039",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM041",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-10-31 14:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-10-31 17:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST041",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES040",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM042",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-10-31 13:29:39",
+        "package_id":  "",
+        "end_time":  "2026-10-31 16:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST042",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES041",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM043",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-10-31 12:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-10-31 15:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST043",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES042",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM044",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-10-31 11:29:39",
+        "package_id":  "",
+        "end_time":  "2026-10-31 14:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST044",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES043",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM045",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-10-31 10:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-10-31 13:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST045",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES044",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM046",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-10-31 09:29:39",
+        "package_id":  "",
+        "end_time":  "2026-10-31 12:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST046",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES045",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM047",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-10-31 08:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-10-31 11:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST047",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES046",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM048",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-10-31 07:29:39",
+        "package_id":  "",
+        "end_time":  "2026-10-31 10:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST048",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES047",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM049",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-10-31 06:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-10-31 09:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST049",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES048",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM050",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-10-31 05:29:39",
+        "package_id":  "",
+        "end_time":  "2026-10-31 08:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST050",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES049",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
+    },
+    {
+        "hourly_rate":  "250.00",
+        "room_id":  "RM001",
+        "orders":  [
+                       {
+                           "price":  "180.00",
+                           "subtotal":  "360.00",
+                           "quantity":  2,
+                           "product_id":  "PRD001",
+                           "name":  "Crispy Fries 1"
+                       }
+                   ],
+        "start_time":  "2026-10-31 04:29:39",
+        "package_id":  "PKG001",
+        "end_time":  "2026-10-31 07:29:39",
+        "duration_hours":  3,
+        "rental_amount":  "750.00",
+        "customer_id":  "CUST001",
+        "status":  "Completed",
+        "total_amount":  "1110.00",
+        "session_id":  "SES050",
+        "food_amount":  "360.00",
+        "overtime_amount":  "0.00",
+        "overtime_minutes":  0
     }
 ]

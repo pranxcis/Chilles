@@ -1,1 +1,34 @@
-﻿[]
+[
+    {
+        "name":  "Snacks and Appetizers",
+        "category_id":  "PCAT01"
+    },
+    {
+        "name":  "Rice Meals",
+        "category_id":  "PCAT02"
+    },
+    {
+        "name":  "Pasta and Sharing",
+        "category_id":  "PCAT03"
+    },
+    {
+        "name":  "Packaged Snacks",
+        "category_id":  "PCAT04"
+    },
+    {
+        "name":  "Soft Drinks",
+        "category_id":  "PCAT05"
+    },
+    {
+        "name":  "Juices and Water",
+        "category_id":  "PCAT06"
+    },
+    {
+        "name":  "Coffee and Specialty Drinks",
+        "category_id":  "PCAT07"
+    },
+    {
+        "name":  "Desserts",
+        "category_id":  "PCAT08"
+    }
+]

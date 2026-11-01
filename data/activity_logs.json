@@ -1,152 +1,302 @@
 [
     {
-        "timestamp": "2026-11-02 03:29:29",
-        "user": "Administrator",
-        "action": "Changed status of Standard Room 02 to Maintenance"
+        "log_id":  "LOG001",
+        "timestamp":  "2026-11-02 06:14:39",
+        "user":  "Administrator",
+        "action":  "Completed room checkout (Ref: REC001)"
     },
     {
-        "timestamp": "2026-11-02 03:29:39",
-        "user": "Administrator",
-        "action": "Updated room details for: Standard Room 02"
+        "log_id":  "LOG002",
+        "timestamp":  "2026-11-02 05:59:39",
+        "user":  "Administrator",
+        "action":  "Added F\u0026B items to cart (Ref: REC002)"
     },
     {
-        "timestamp": "2026-11-02 04:17:35",
-        "user": "Administrator",
-        "action": "Started rental session SES-20261102041735-F227 for Standard Room 01"
+        "log_id":  "LOG003",
+        "timestamp":  "2026-11-02 05:44:39",
+        "user":  "Administrator",
+        "action":  "Extended room session time (Ref: REC003)"
     },
     {
-        "timestamp": "2026-11-02 04:18:05",
-        "user": "Administrator",
-        "action": "Added 1x Iced Americano to SES-20261102041735-F227"
+        "log_id":  "LOG004",
+        "timestamp":  "2026-11-02 05:29:39",
+        "user":  "Administrator",
+        "action":  "Transferred room session (Ref: REC004)"
     },
     {
-        "timestamp": "2026-11-02 04:26:23",
-        "user": "Administrator",
-        "action": "Started rental session SES-20261102042623-C2DF for Standard Room 01"
+        "log_id":  "LOG005",
+        "timestamp":  "2026-11-02 05:14:39",
+        "user":  "Administrator",
+        "action":  "Updated user settings (Ref: REC005)"
     },
     {
-        "timestamp": "2026-11-02 04:26:48",
-        "user": "Administrator",
-        "action": "Created order ticket ORD-20261102042648-35D4 for session SES-20261102042623-C2DF"
+        "log_id":  "LOG006",
+        "timestamp":  "2026-11-02 04:59:39",
+        "user":  "Administrator",
+        "action":  "Launched room session (Ref: REC006)"
     },
     {
-        "timestamp": "2026-11-02 04:26:56",
-        "user": "Administrator",
-        "action": "Updated order ORD-20261102042648-35D4 status to Preparing"
+        "log_id":  "LOG007",
+        "timestamp":  "2026-11-02 04:44:39",
+        "user":  "Administrator",
+        "action":  "Completed room checkout (Ref: REC007)"
     },
     {
-        "timestamp": "2026-11-02 04:34:24",
-        "user": "Administrator",
-        "action": "Placed bulk order ORD-20261102043424-C981 (Tab) for session SES-20261102042623-C2DF"
+        "log_id":  "LOG008",
+        "timestamp":  "2026-11-02 04:29:39",
+        "user":  "Administrator",
+        "action":  "Added F\u0026B items to cart (Ref: REC008)"
     },
     {
-        "timestamp": "2026-11-02 04:39:08",
-        "user": "Administrator",
-        "action": "Created menu item: Sprite Canned (Soft Drinks)"
+        "log_id":  "LOG009",
+        "timestamp":  "2026-11-02 04:14:39",
+        "user":  "Administrator",
+        "action":  "Extended room session time (Ref: REC009)"
     },
     {
-        "timestamp": "2026-11-02 04:39:46",
-        "user": "Administrator",
-        "action": "Placed bulk order ORD-20261102043946-25EF (Tab) for session SES-20261102042623-C2DF"
+        "log_id":  "LOG010",
+        "timestamp":  "2026-11-02 03:59:39",
+        "user":  "Administrator",
+        "action":  "Transferred room session (Ref: REC010)"
     },
     {
-        "timestamp": "2026-11-02 04:44:49",
-        "user": "Administrator",
-        "action": "Registered new guest: Elijah Gallardo (09123456789)"
+        "log_id":  "LOG011",
+        "timestamp":  "2026-11-02 03:44:39",
+        "user":  "Administrator",
+        "action":  "Updated user settings (Ref: REC011)"
     },
     {
-        "timestamp": "2026-11-02 04:59:19",
-        "user": "Administrator",
-        "action": "Placed bulk order ORD-20261102045919-1833 (Tab) for session SES-20261102042623-C2DF"
+        "log_id":  "LOG012",
+        "timestamp":  "2026-11-02 03:29:39",
+        "user":  "Administrator",
+        "action":  "Launched room session (Ref: REC012)"
     },
     {
-        "timestamp": "2026-11-02 05:06:37",
-        "user": "Administrator",
-        "action": "Placed bulk order ORD-20261102050637-F7AB (Tab) for session SES-20261102042623-C2DF"
+        "log_id":  "LOG013",
+        "timestamp":  "2026-11-02 03:14:39",
+        "user":  "Administrator",
+        "action":  "Completed room checkout (Ref: REC013)"
     },
     {
-        "timestamp": "2026-11-02 05:26:20",
-        "user": "Administrator",
-        "action": "Changed status of Standard Room 02 to Available"
+        "log_id":  "LOG014",
+        "timestamp":  "2026-11-02 02:59:39",
+        "user":  "Administrator",
+        "action":  "Added F\u0026B items to cart (Ref: REC014)"
     },
     {
-        "timestamp": "2026-11-02 05:26:44",
-        "user": "Administrator",
-        "action": "Launched session SES-20261102052644-BBA0 for room Standard Room 02"
+        "log_id":  "LOG015",
+        "timestamp":  "2026-11-02 02:44:39",
+        "user":  "Administrator",
+        "action":  "Extended room session time (Ref: REC015)"
     },
     {
-        "timestamp": "2026-11-02 05:27:35",
-        "user": "Administrator",
-        "action": "Launched session SES-20261102052735-1B63 for room Standard Room 01"
+        "log_id":  "LOG016",
+        "timestamp":  "2026-11-02 02:29:39",
+        "user":  "Administrator",
+        "action":  "Transferred room session (Ref: REC016)"
     },
     {
-        "timestamp": "2026-11-02 05:28:40",
-        "user": "Administrator",
-        "action": "Placed bulk order ORD-20261102052840-3349 (Upfront) for session SES-20261102052735-1B63"
+        "log_id":  "LOG017",
+        "timestamp":  "2026-11-02 02:14:39",
+        "user":  "Administrator",
+        "action":  "Updated user settings (Ref: REC017)"
     },
     {
-        "timestamp": "2026-11-02 05:29:06",
-        "user": "Administrator",
-        "action": "Placed bulk order ORD-20261102052906-B088 (Tab) for session SES-20261102052735-1B63"
+        "log_id":  "LOG018",
+        "timestamp":  "2026-11-02 01:59:39",
+        "user":  "Administrator",
+        "action":  "Launched room session (Ref: REC018)"
     },
     {
-        "timestamp": "2026-11-02 05:29:25",
-        "user": "Administrator",
-        "action": "Extended session SES-20261102052735-1B63 by 1.0 hrs"
+        "log_id":  "LOG019",
+        "timestamp":  "2026-11-02 01:44:39",
+        "user":  "Administrator",
+        "action":  "Completed room checkout (Ref: REC019)"
     },
     {
-        "timestamp": "2026-11-02 05:29:35",
-        "user": "Administrator",
-        "action": "Completed checkout & bill-out for session SES-20261102052735-1B63 (Paid: 1220.00)"
+        "log_id":  "LOG020",
+        "timestamp":  "2026-11-02 01:29:39",
+        "user":  "Administrator",
+        "action":  "Added F\u0026B items to cart (Ref: REC020)"
     },
     {
-        "timestamp": "2026-11-02 05:36:30",
-        "user": "Administrator",
-        "action": "Placed bulk order ORD-20261102053630-4D85 (Upfront) for session SES-20261102052644-BBA0"
+        "log_id":  "LOG021",
+        "timestamp":  "2026-11-02 01:14:39",
+        "user":  "Administrator",
+        "action":  "Extended room session time (Ref: REC021)"
     },
     {
-        "timestamp": "2026-11-02 05:36:47",
-        "user": "Administrator",
-        "action": "Completed checkout & bill-out for session SES-20261102052644-BBA0 (Paid: 750.00)"
+        "log_id":  "LOG022",
+        "timestamp":  "2026-11-02 00:59:39",
+        "user":  "Administrator",
+        "action":  "Transferred room session (Ref: REC022)"
     },
     {
-        "timestamp": "2026-11-02 05:41:00",
-        "user": "Administrator",
-        "action": "Launched session SES-20261102054100-8D07 for room VVIP Room 05"
+        "log_id":  "LOG023",
+        "timestamp":  "2026-11-02 00:44:39",
+        "user":  "Administrator",
+        "action":  "Updated user settings (Ref: REC023)"
     },
     {
-        "timestamp": "2026-11-02 05:41:17",
-        "user": "Administrator",
-        "action": "Extended session SES-20261102054100-8D07 by 1.0 hrs"
+        "log_id":  "LOG024",
+        "timestamp":  "2026-11-02 00:29:39",
+        "user":  "Administrator",
+        "action":  "Launched room session (Ref: REC024)"
     },
     {
-        "timestamp": "2026-11-02 05:41:23",
-        "user": "Administrator",
-        "action": "Extended session SES-20261102054100-8D07 by 1.0 hrs"
+        "log_id":  "LOG025",
+        "timestamp":  "2026-11-02 00:14:39",
+        "user":  "Administrator",
+        "action":  "Completed room checkout (Ref: REC025)"
     },
     {
-        "timestamp": "2026-11-02 05:41:36",
-        "user": "Administrator",
-        "action": "Placed bulk order ORD-20261102054136-3187 (Tab) for session SES-20261102054100-8D07"
+        "log_id":  "LOG026",
+        "timestamp":  "2026-11-01 23:59:39",
+        "user":  "Administrator",
+        "action":  "Added F\u0026B items to cart (Ref: REC026)"
     },
     {
-        "timestamp": "2026-11-02 05:42:20",
-        "user": "Administrator",
-        "action": "Completed checkout & bill-out for session SES-20261102054100-8D07 (Paid: 5180.00)"
+        "log_id":  "LOG027",
+        "timestamp":  "2026-11-01 23:44:39",
+        "user":  "Administrator",
+        "action":  "Extended room session time (Ref: REC027)"
     },
     {
-        "timestamp": "2026-11-02 05:46:34",
-        "user": "Administrator",
-        "action": "Launched session SES-20261102054634-3605 for room Standard Room 04"
+        "log_id":  "LOG028",
+        "timestamp":  "2026-11-01 23:29:39",
+        "user":  "Administrator",
+        "action":  "Transferred room session (Ref: REC028)"
     },
     {
-        "timestamp": "2026-11-02 05:46:53",
-        "user": "Administrator",
-        "action": "Placed bulk order ORD-20261102054652-0830 (Upfront) for session SES-20261102054634-3605"
+        "log_id":  "LOG029",
+        "timestamp":  "2026-11-01 23:14:39",
+        "user":  "Administrator",
+        "action":  "Updated user settings (Ref: REC029)"
     },
     {
-        "timestamp": "2026-11-02 05:47:22",
-        "user": "Administrator",
-        "action": "Completed checkout & bill-out for session SES-20261102054634-3605 (Paid: 680.00)"
+        "log_id":  "LOG030",
+        "timestamp":  "2026-11-01 22:59:39",
+        "user":  "Administrator",
+        "action":  "Launched room session (Ref: REC030)"
+    },
+    {
+        "log_id":  "LOG031",
+        "timestamp":  "2026-11-01 22:44:39",
+        "user":  "Administrator",
+        "action":  "Completed room checkout (Ref: REC031)"
+    },
+    {
+        "log_id":  "LOG032",
+        "timestamp":  "2026-11-01 22:29:39",
+        "user":  "Administrator",
+        "action":  "Added F\u0026B items to cart (Ref: REC032)"
+    },
+    {
+        "log_id":  "LOG033",
+        "timestamp":  "2026-11-01 22:14:39",
+        "user":  "Administrator",
+        "action":  "Extended room session time (Ref: REC033)"
+    },
+    {
+        "log_id":  "LOG034",
+        "timestamp":  "2026-11-01 21:59:39",
+        "user":  "Administrator",
+        "action":  "Transferred room session (Ref: REC034)"
+    },
+    {
+        "log_id":  "LOG035",
+        "timestamp":  "2026-11-01 21:44:39",
+        "user":  "Administrator",
+        "action":  "Updated user settings (Ref: REC035)"
+    },
+    {
+        "log_id":  "LOG036",
+        "timestamp":  "2026-11-01 21:29:39",
+        "user":  "Administrator",
+        "action":  "Launched room session (Ref: REC036)"
+    },
+    {
+        "log_id":  "LOG037",
+        "timestamp":  "2026-11-01 21:14:39",
+        "user":  "Administrator",
+        "action":  "Completed room checkout (Ref: REC037)"
+    },
+    {
+        "log_id":  "LOG038",
+        "timestamp":  "2026-11-01 20:59:39",
+        "user":  "Administrator",
+        "action":  "Added F\u0026B items to cart (Ref: REC038)"
+    },
+    {
+        "log_id":  "LOG039",
+        "timestamp":  "2026-11-01 20:44:39",
+        "user":  "Administrator",
+        "action":  "Extended room session time (Ref: REC039)"
+    },
+    {
+        "log_id":  "LOG040",
+        "timestamp":  "2026-11-01 20:29:39",
+        "user":  "Administrator",
+        "action":  "Transferred room session (Ref: REC040)"
+    },
+    {
+        "log_id":  "LOG041",
+        "timestamp":  "2026-11-01 20:14:39",
+        "user":  "Administrator",
+        "action":  "Updated user settings (Ref: REC041)"
+    },
+    {
+        "log_id":  "LOG042",
+        "timestamp":  "2026-11-01 19:59:39",
+        "user":  "Administrator",
+        "action":  "Launched room session (Ref: REC042)"
+    },
+    {
+        "log_id":  "LOG043",
+        "timestamp":  "2026-11-01 19:44:39",
+        "user":  "Administrator",
+        "action":  "Completed room checkout (Ref: REC043)"
+    },
+    {
+        "log_id":  "LOG044",
+        "timestamp":  "2026-11-01 19:29:39",
+        "user":  "Administrator",
+        "action":  "Added F\u0026B items to cart (Ref: REC044)"
+    },
+    {
+        "log_id":  "LOG045",
+        "timestamp":  "2026-11-01 19:14:39",
+        "user":  "Administrator",
+        "action":  "Extended room session time (Ref: REC045)"
+    },
+    {
+        "log_id":  "LOG046",
+        "timestamp":  "2026-11-01 18:59:39",
+        "user":  "Administrator",
+        "action":  "Transferred room session (Ref: REC046)"
+    },
+    {
+        "log_id":  "LOG047",
+        "timestamp":  "2026-11-01 18:44:39",
+        "user":  "Administrator",
+        "action":  "Updated user settings (Ref: REC047)"
+    },
+    {
+        "log_id":  "LOG048",
+        "timestamp":  "2026-11-01 18:29:39",
+        "user":  "Administrator",
+        "action":  "Launched room session (Ref: REC048)"
+    },
+    {
+        "log_id":  "LOG049",
+        "timestamp":  "2026-11-01 18:14:39",
+        "user":  "Administrator",
+        "action":  "Completed room checkout (Ref: REC049)"
+    },
+    {
+        "log_id":  "LOG050",
+        "timestamp":  "2026-11-01 17:59:39",
+        "user":  "Administrator",
+        "action":  "Added F\u0026B items to cart (Ref: REC050)"
     }
 ]

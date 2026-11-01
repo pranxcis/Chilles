@@ -1,7 +1,7 @@
-﻿{
-  "currency": "PHP",
-  "date_format": "YYYY-MM-DD",
-  "theme": "dark",
-  "overtime_grace_minutes": 5,
-  "backup_location": "backups"
+{
+    "default_hourly_rate":  "250.00",
+    "overtime_grace_period_minutes":  5,
+    "theme_appearance":  "Dark",
+    "auto_backup_enabled":  true,
+    "accent_color":  "Teal"
 }

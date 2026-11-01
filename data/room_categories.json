@@ -1,1 +1,20 @@
-﻿[]
+[
+    {
+        "category_id":  "RCAT01",
+        "base_rate":  "250.00",
+        "description":  "Ideal for small groups up to 6 pax",
+        "name":  "Standard Suite"
+    },
+    {
+        "category_id":  "RCAT02",
+        "base_rate":  "450.00",
+        "description":  "Spacious room with premium acoustics for up to 12 pax",
+        "name":  "Deluxe Suite"
+    },
+    {
+        "category_id":  "RCAT03",
+        "base_rate":  "850.00",
+        "description":  "Luxury party suite with private bar and stage for up to 25 pax",
+        "name":  "VIP Grand Suite"
+    }
+]

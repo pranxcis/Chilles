@@ -1,26 +1,452 @@
 [
     {
-        "customer_id": "CUST-20261102032348-F151",
-        "first_name": "Francis",
-        "last_name": "Balbin",
-        "middle_name": "Gustilo",
-        "phone": "091234567890",
-        "registration_date": "2026-11-02 03:23:48",
-        "email": "frank@gmail.com",
-        "address": "",
-        "notes": "Pogi",
-        "loyalty_points": 0
+        "phone":  "09171000001",
+        "first_name":  "Juan",
+        "full_name":  "Juan Santos",
+        "customer_id":  "CUST001",
+        "loyalty_points":  20,
+        "email":  "juan.santos1@example.com",
+        "last_name":  "Santos"
     },
     {
-        "customer_id": "CUST-20261102044449-EBD4",
-        "first_name": "Elijah",
-        "last_name": "Gallardo",
-        "middle_name": "",
-        "phone": "09123456789",
-        "registration_date": "2026-11-02 04:44:49",
-        "email": "eli@gmailcom",
-        "address": "",
-        "notes": "",
-        "loyalty_points": 0
+        "phone":  "09171000002",
+        "first_name":  "Maria",
+        "full_name":  "Maria Reyes",
+        "customer_id":  "CUST002",
+        "loyalty_points":  40,
+        "email":  "maria.reyes2@example.com",
+        "last_name":  "Reyes"
+    },
+    {
+        "phone":  "09171000003",
+        "first_name":  "Carlos",
+        "full_name":  "Carlos Cruz",
+        "customer_id":  "CUST003",
+        "loyalty_points":  60,
+        "email":  "carlos.cruz3@example.com",
+        "last_name":  "Cruz"
+    },
+    {
+        "phone":  "09171000004",
+        "first_name":  "Bea",
+        "full_name":  "Bea Bautista",
+        "customer_id":  "CUST004",
+        "loyalty_points":  80,
+        "email":  "bea.bautista4@example.com",
+        "last_name":  "Bautista"
+    },
+    {
+        "phone":  "09171000005",
+        "first_name":  "Marco",
+        "full_name":  "Marco Ocampo",
+        "customer_id":  "CUST005",
+        "loyalty_points":  100,
+        "email":  "marco.ocampo5@example.com",
+        "last_name":  "Ocampo"
+    },
+    {
+        "phone":  "09171000006",
+        "first_name":  "Angelica",
+        "full_name":  "Angelica Aquino",
+        "customer_id":  "CUST006",
+        "loyalty_points":  120,
+        "email":  "angelica.aquino6@example.com",
+        "last_name":  "Aquino"
+    },
+    {
+        "phone":  "09171000007",
+        "first_name":  "Miguel",
+        "full_name":  "Miguel Garcia",
+        "customer_id":  "CUST007",
+        "loyalty_points":  140,
+        "email":  "miguel.garcia7@example.com",
+        "last_name":  "Garcia"
+    },
+    {
+        "phone":  "09171000008",
+        "first_name":  "Sofia",
+        "full_name":  "Sofia Mendoza",
+        "customer_id":  "CUST008",
+        "loyalty_points":  160,
+        "email":  "sofia.mendoza8@example.com",
+        "last_name":  "Mendoza"
+    },
+    {
+        "phone":  "09171000009",
+        "first_name":  "Gabriel",
+        "full_name":  "Gabriel Torres",
+        "customer_id":  "CUST009",
+        "loyalty_points":  180,
+        "email":  "gabriel.torres9@example.com",
+        "last_name":  "Torres"
+    },
+    {
+        "phone":  "09171000010",
+        "first_name":  "Krysha",
+        "full_name":  "Krysha Flores",
+        "customer_id":  "CUST010",
+        "loyalty_points":  200,
+        "email":  "krysha.flores10@example.com",
+        "last_name":  "Flores"
+    },
+    {
+        "phone":  "09171000011",
+        "first_name":  "Rico",
+        "full_name":  "Rico Villanueva",
+        "customer_id":  "CUST011",
+        "loyalty_points":  220,
+        "email":  "rico.villanueva11@example.com",
+        "last_name":  "Villanueva"
+    },
+    {
+        "phone":  "09171000012",
+        "first_name":  "Jasmine",
+        "full_name":  "Jasmine Ramos",
+        "customer_id":  "CUST012",
+        "loyalty_points":  240,
+        "email":  "jasmine.ramos12@example.com",
+        "last_name":  "Ramos"
+    },
+    {
+        "phone":  "09171000013",
+        "first_name":  "Daniel",
+        "full_name":  "Daniel Castro",
+        "customer_id":  "CUST013",
+        "loyalty_points":  260,
+        "email":  "daniel.castro13@example.com",
+        "last_name":  "Castro"
+    },
+    {
+        "phone":  "09171000014",
+        "first_name":  "Chloe",
+        "full_name":  "Chloe Rivera",
+        "customer_id":  "CUST014",
+        "loyalty_points":  280,
+        "email":  "chloe.rivera14@example.com",
+        "last_name":  "Rivera"
+    },
+    {
+        "phone":  "09171000015",
+        "first_name":  "Paolo",
+        "full_name":  "Paolo Salazar",
+        "customer_id":  "CUST015",
+        "loyalty_points":  300,
+        "email":  "paolo.salazar15@example.com",
+        "last_name":  "Salazar"
+    },
+    {
+        "phone":  "09171000016",
+        "first_name":  "Bianca",
+        "full_name":  "Bianca Navarro",
+        "customer_id":  "CUST016",
+        "loyalty_points":  320,
+        "email":  "bianca.navarro16@example.com",
+        "last_name":  "Navarro"
+    },
+    {
+        "phone":  "09171000017",
+        "first_name":  "Lucas",
+        "full_name":  "Lucas Mercado",
+        "customer_id":  "CUST017",
+        "loyalty_points":  340,
+        "email":  "lucas.mercado17@example.com",
+        "last_name":  "Mercado"
+    },
+    {
+        "phone":  "09171000018",
+        "first_name":  "Andrea",
+        "full_name":  "Andrea Pascual",
+        "customer_id":  "CUST018",
+        "loyalty_points":  360,
+        "email":  "andrea.pascual18@example.com",
+        "last_name":  "Pascual"
+    },
+    {
+        "phone":  "09171000019",
+        "first_name":  "Rafael",
+        "full_name":  "Rafael Tan",
+        "customer_id":  "CUST019",
+        "loyalty_points":  380,
+        "email":  "rafael.tan19@example.com",
+        "last_name":  "Tan"
+    },
+    {
+        "phone":  "09171000020",
+        "first_name":  "Samantha",
+        "full_name":  "Samantha Lim",
+        "customer_id":  "CUST020",
+        "loyalty_points":  400,
+        "email":  "samantha.lim20@example.com",
+        "last_name":  "Lim"
+    },
+    {
+        "phone":  "09171000021",
+        "first_name":  "Juan",
+        "full_name":  "Juan Santos",
+        "customer_id":  "CUST021",
+        "loyalty_points":  420,
+        "email":  "juan.santos21@example.com",
+        "last_name":  "Santos"
+    },
+    {
+        "phone":  "09171000022",
+        "first_name":  "Maria",
+        "full_name":  "Maria Reyes",
+        "customer_id":  "CUST022",
+        "loyalty_points":  440,
+        "email":  "maria.reyes22@example.com",
+        "last_name":  "Reyes"
+    },
+    {
+        "phone":  "09171000023",
+        "first_name":  "Carlos",
+        "full_name":  "Carlos Cruz",
+        "customer_id":  "CUST023",
+        "loyalty_points":  460,
+        "email":  "carlos.cruz23@example.com",
+        "last_name":  "Cruz"
+    },
+    {
+        "phone":  "09171000024",
+        "first_name":  "Bea",
+        "full_name":  "Bea Bautista",
+        "customer_id":  "CUST024",
+        "loyalty_points":  480,
+        "email":  "bea.bautista24@example.com",
+        "last_name":  "Bautista"
+    },
+    {
+        "phone":  "09171000025",
+        "first_name":  "Marco",
+        "full_name":  "Marco Ocampo",
+        "customer_id":  "CUST025",
+        "loyalty_points":  500,
+        "email":  "marco.ocampo25@example.com",
+        "last_name":  "Ocampo"
+    },
+    {
+        "phone":  "09171000026",
+        "first_name":  "Angelica",
+        "full_name":  "Angelica Aquino",
+        "customer_id":  "CUST026",
+        "loyalty_points":  520,
+        "email":  "angelica.aquino26@example.com",
+        "last_name":  "Aquino"
+    },
+    {
+        "phone":  "09171000027",
+        "first_name":  "Miguel",
+        "full_name":  "Miguel Garcia",
+        "customer_id":  "CUST027",
+        "loyalty_points":  540,
+        "email":  "miguel.garcia27@example.com",
+        "last_name":  "Garcia"
+    },
+    {
+        "phone":  "09171000028",
+        "first_name":  "Sofia",
+        "full_name":  "Sofia Mendoza",
+        "customer_id":  "CUST028",
+        "loyalty_points":  560,
+        "email":  "sofia.mendoza28@example.com",
+        "last_name":  "Mendoza"
+    },
+    {
+        "phone":  "09171000029",
+        "first_name":  "Gabriel",
+        "full_name":  "Gabriel Torres",
+        "customer_id":  "CUST029",
+        "loyalty_points":  580,
+        "email":  "gabriel.torres29@example.com",
+        "last_name":  "Torres"
+    },
+    {
+        "phone":  "09171000030",
+        "first_name":  "Krysha",
+        "full_name":  "Krysha Flores",
+        "customer_id":  "CUST030",
+        "loyalty_points":  600,
+        "email":  "krysha.flores30@example.com",
+        "last_name":  "Flores"
+    },
+    {
+        "phone":  "09171000031",
+        "first_name":  "Rico",
+        "full_name":  "Rico Villanueva",
+        "customer_id":  "CUST031",
+        "loyalty_points":  620,
+        "email":  "rico.villanueva31@example.com",
+        "last_name":  "Villanueva"
+    },
+    {
+        "phone":  "09171000032",
+        "first_name":  "Jasmine",
+        "full_name":  "Jasmine Ramos",
+        "customer_id":  "CUST032",
+        "loyalty_points":  640,
+        "email":  "jasmine.ramos32@example.com",
+        "last_name":  "Ramos"
+    },
+    {
+        "phone":  "09171000033",
+        "first_name":  "Daniel",
+        "full_name":  "Daniel Castro",
+        "customer_id":  "CUST033",
+        "loyalty_points":  660,
+        "email":  "daniel.castro33@example.com",
+        "last_name":  "Castro"
+    },
+    {
+        "phone":  "09171000034",
+        "first_name":  "Chloe",
+        "full_name":  "Chloe Rivera",
+        "customer_id":  "CUST034",
+        "loyalty_points":  680,
+        "email":  "chloe.rivera34@example.com",
+        "last_name":  "Rivera"
+    },
+    {
+        "phone":  "09171000035",
+        "first_name":  "Paolo",
+        "full_name":  "Paolo Salazar",
+        "customer_id":  "CUST035",
+        "loyalty_points":  700,
+        "email":  "paolo.salazar35@example.com",
+        "last_name":  "Salazar"
+    },
+    {
+        "phone":  "09171000036",
+        "first_name":  "Bianca",
+        "full_name":  "Bianca Navarro",
+        "customer_id":  "CUST036",
+        "loyalty_points":  720,
+        "email":  "bianca.navarro36@example.com",
+        "last_name":  "Navarro"
+    },
+    {
+        "phone":  "09171000037",
+        "first_name":  "Lucas",
+        "full_name":  "Lucas Mercado",
+        "customer_id":  "CUST037",
+        "loyalty_points":  740,
+        "email":  "lucas.mercado37@example.com",
+        "last_name":  "Mercado"
+    },
+    {
+        "phone":  "09171000038",
+        "first_name":  "Andrea",
+        "full_name":  "Andrea Pascual",
+        "customer_id":  "CUST038",
+        "loyalty_points":  760,
+        "email":  "andrea.pascual38@example.com",
+        "last_name":  "Pascual"
+    },
+    {
+        "phone":  "09171000039",
+        "first_name":  "Rafael",
+        "full_name":  "Rafael Tan",
+        "customer_id":  "CUST039",
+        "loyalty_points":  780,
+        "email":  "rafael.tan39@example.com",
+        "last_name":  "Tan"
+    },
+    {
+        "phone":  "09171000040",
+        "first_name":  "Samantha",
+        "full_name":  "Samantha Lim",
+        "customer_id":  "CUST040",
+        "loyalty_points":  800,
+        "email":  "samantha.lim40@example.com",
+        "last_name":  "Lim"
+    },
+    {
+        "phone":  "09171000041",
+        "first_name":  "Juan",
+        "full_name":  "Juan Santos",
+        "customer_id":  "CUST041",
+        "loyalty_points":  820,
+        "email":  "juan.santos41@example.com",
+        "last_name":  "Santos"
+    },
+    {
+        "phone":  "09171000042",
+        "first_name":  "Maria",
+        "full_name":  "Maria Reyes",
+        "customer_id":  "CUST042",
+        "loyalty_points":  840,
+        "email":  "maria.reyes42@example.com",
+        "last_name":  "Reyes"
+    },
+    {
+        "phone":  "09171000043",
+        "first_name":  "Carlos",
+        "full_name":  "Carlos Cruz",
+        "customer_id":  "CUST043",
+        "loyalty_points":  860,
+        "email":  "carlos.cruz43@example.com",
+        "last_name":  "Cruz"
+    },
+    {
+        "phone":  "09171000044",
+        "first_name":  "Bea",
+        "full_name":  "Bea Bautista",
+        "customer_id":  "CUST044",
+        "loyalty_points":  880,
+        "email":  "bea.bautista44@example.com",
+        "last_name":  "Bautista"
+    },
+    {
+        "phone":  "09171000045",
+        "first_name":  "Marco",
+        "full_name":  "Marco Ocampo",
+        "customer_id":  "CUST045",
+        "loyalty_points":  900,
+        "email":  "marco.ocampo45@example.com",
+        "last_name":  "Ocampo"
+    },
+    {
+        "phone":  "09171000046",
+        "first_name":  "Angelica",
+        "full_name":  "Angelica Aquino",
+        "customer_id":  "CUST046",
+        "loyalty_points":  920,
+        "email":  "angelica.aquino46@example.com",
+        "last_name":  "Aquino"
+    },
+    {
+        "phone":  "09171000047",
+        "first_name":  "Miguel",
+        "full_name":  "Miguel Garcia",
+        "customer_id":  "CUST047",
+        "loyalty_points":  940,
+        "email":  "miguel.garcia47@example.com",
+        "last_name":  "Garcia"
+    },
+    {
+        "phone":  "09171000048",
+        "first_name":  "Sofia",
+        "full_name":  "Sofia Mendoza",
+        "customer_id":  "CUST048",
+        "loyalty_points":  960,
+        "email":  "sofia.mendoza48@example.com",
+        "last_name":  "Mendoza"
+    },
+    {
+        "phone":  "09171000049",
+        "first_name":  "Gabriel",
+        "full_name":  "Gabriel Torres",
+        "customer_id":  "CUST049",
+        "loyalty_points":  980,
+        "email":  "gabriel.torres49@example.com",
+        "last_name":  "Torres"
+    },
+    {
+        "phone":  "09171000050",
+        "first_name":  "Krysha",
+        "full_name":  "Krysha Flores",
+        "customer_id":  "CUST050",
+        "loyalty_points":  1000,
+        "email":  "krysha.flores50@example.com",
+        "last_name":  "Flores"
     }
 ]

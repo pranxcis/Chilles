@@ -1,6 +1,9 @@
 {
-    "name": "Chilles KTV",
-    "phone": "0956-123-4567",
-    "address": "123 Music Avenue, Taguig City, Metro Manila",
-    "receipt_footer": "Thank you for singing with us! Please come again."
+    "email":  "support@chillesktv.com",
+    "name":  "Chilles KTV",
+    "tax_rate":  "0.12",
+    "currency":  "PHP",
+    "contact_number":  "+63 917 555 3821",
+    "tagline":  "The Ultimate Singing Experience",
+    "address":  "4th Floor, Grand Entertainment Hub, Metro Manila"
 }
