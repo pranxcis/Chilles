@@ -1,0 +1,447 @@
+[
+    {
+        "room_id": "RM-20261102032301-39C3",
+        "name": "Standard Room 01",
+        "room_type": "Standard",
+        "capacity": 4,
+        "hourly_rate": 250.0,
+        "status": "Available",
+        "description": "Spacious Standard category room equipped for up to 2-4 guests.",
+        "facilities": [
+            "TV",
+            "Karaoke System",
+            "2 Microphones",
+            "Air Conditioning",
+            "Seating"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-B814",
+        "name": "Standard Room 02",
+        "room_type": "Standard",
+        "capacity": 4,
+        "hourly_rate": 250.0,
+        "status": "Available",
+        "description": "Spacious Standard category room equipped for up to 2-4 guests.",
+        "facilities": [
+            "TV",
+            "Karaoke System",
+            "2 Microphones",
+            "Air Conditioning",
+            "Seating"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-B73F",
+        "name": "Standard Room 03",
+        "room_type": "Standard",
+        "capacity": 4,
+        "hourly_rate": 250.0,
+        "status": "Available",
+        "description": "Spacious Standard category room equipped for up to 2-4 guests.",
+        "facilities": [
+            "TV",
+            "Karaoke System",
+            "2 Microphones",
+            "Air Conditioning",
+            "Seating"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-3AF8",
+        "name": "Standard Room 04",
+        "room_type": "Standard",
+        "capacity": 4,
+        "hourly_rate": 250.0,
+        "status": "Available",
+        "description": "Spacious Standard category room equipped for up to 2-4 guests.",
+        "facilities": [
+            "TV",
+            "Karaoke System",
+            "2 Microphones",
+            "Air Conditioning",
+            "Seating"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-A8B3",
+        "name": "Standard Room 05",
+        "room_type": "Standard",
+        "capacity": 4,
+        "hourly_rate": 250.0,
+        "status": "Available",
+        "description": "Spacious Standard category room equipped for up to 2-4 guests.",
+        "facilities": [
+            "TV",
+            "Karaoke System",
+            "2 Microphones",
+            "Air Conditioning",
+            "Seating"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-D058",
+        "name": "Medium Room 01",
+        "room_type": "Medium",
+        "capacity": 8,
+        "hourly_rate": 350.0,
+        "status": "Available",
+        "description": "Spacious Medium category room equipped for up to 5-8 guests.",
+        "facilities": [
+            "TV",
+            "Karaoke System",
+            "4 Microphones",
+            "Surround Speakers",
+            "Air Conditioning",
+            "Seating"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-B5C9",
+        "name": "Medium Room 02",
+        "room_type": "Medium",
+        "capacity": 8,
+        "hourly_rate": 350.0,
+        "status": "Available",
+        "description": "Spacious Medium category room equipped for up to 5-8 guests.",
+        "facilities": [
+            "TV",
+            "Karaoke System",
+            "4 Microphones",
+            "Surround Speakers",
+            "Air Conditioning",
+            "Seating"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-DA0C",
+        "name": "Medium Room 03",
+        "room_type": "Medium",
+        "capacity": 8,
+        "hourly_rate": 350.0,
+        "status": "Available",
+        "description": "Spacious Medium category room equipped for up to 5-8 guests.",
+        "facilities": [
+            "TV",
+            "Karaoke System",
+            "4 Microphones",
+            "Surround Speakers",
+            "Air Conditioning",
+            "Seating"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-AD87",
+        "name": "Medium Room 04",
+        "room_type": "Medium",
+        "capacity": 8,
+        "hourly_rate": 350.0,
+        "status": "Available",
+        "description": "Spacious Medium category room equipped for up to 5-8 guests.",
+        "facilities": [
+            "TV",
+            "Karaoke System",
+            "4 Microphones",
+            "Surround Speakers",
+            "Air Conditioning",
+            "Seating"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-0B7C",
+        "name": "Medium Room 05",
+        "room_type": "Medium",
+        "capacity": 8,
+        "hourly_rate": 350.0,
+        "status": "Available",
+        "description": "Spacious Medium category room equipped for up to 5-8 guests.",
+        "facilities": [
+            "TV",
+            "Karaoke System",
+            "4 Microphones",
+            "Surround Speakers",
+            "Air Conditioning",
+            "Seating"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-F429",
+        "name": "Grand Room 01",
+        "room_type": "Grand",
+        "capacity": 12,
+        "hourly_rate": 500.0,
+        "status": "Available",
+        "description": "Spacious Grand category room equipped for up to 9-12 guests.",
+        "facilities": [
+            "Large TV",
+            "Professional Karaoke",
+            "4 Microphones",
+            "Premium Speakers",
+            "Air Conditioning",
+            "Lounge Seating"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-1A80",
+        "name": "Grand Room 02",
+        "room_type": "Grand",
+        "capacity": 12,
+        "hourly_rate": 500.0,
+        "status": "Available",
+        "description": "Spacious Grand category room equipped for up to 9-12 guests.",
+        "facilities": [
+            "Large TV",
+            "Professional Karaoke",
+            "4 Microphones",
+            "Premium Speakers",
+            "Air Conditioning",
+            "Lounge Seating"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-3708",
+        "name": "Grand Room 03",
+        "room_type": "Grand",
+        "capacity": 12,
+        "hourly_rate": 500.0,
+        "status": "Available",
+        "description": "Spacious Grand category room equipped for up to 9-12 guests.",
+        "facilities": [
+            "Large TV",
+            "Professional Karaoke",
+            "4 Microphones",
+            "Premium Speakers",
+            "Air Conditioning",
+            "Lounge Seating"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-C6D8",
+        "name": "Grand Room 04",
+        "room_type": "Grand",
+        "capacity": 12,
+        "hourly_rate": 500.0,
+        "status": "Available",
+        "description": "Spacious Grand category room equipped for up to 9-12 guests.",
+        "facilities": [
+            "Large TV",
+            "Professional Karaoke",
+            "4 Microphones",
+            "Premium Speakers",
+            "Air Conditioning",
+            "Lounge Seating"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-B5FD",
+        "name": "Grand Room 05",
+        "room_type": "Grand",
+        "capacity": 12,
+        "hourly_rate": 500.0,
+        "status": "Available",
+        "description": "Spacious Grand category room equipped for up to 9-12 guests.",
+        "facilities": [
+            "Large TV",
+            "Professional Karaoke",
+            "4 Microphones",
+            "Premium Speakers",
+            "Air Conditioning",
+            "Lounge Seating"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-701B",
+        "name": "VIP Room 01",
+        "room_type": "VIP",
+        "capacity": 18,
+        "hourly_rate": 700.0,
+        "status": "Available",
+        "description": "Spacious VIP category room equipped for up to 13-18 guests.",
+        "facilities": [
+            "Ultra HD Screen",
+            "Premium Karaoke",
+            "6 Microphones",
+            "Stage Lighting",
+            "Air Conditioning",
+            "Private Restroom"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-FDA5",
+        "name": "VIP Room 02",
+        "room_type": "VIP",
+        "capacity": 18,
+        "hourly_rate": 700.0,
+        "status": "Available",
+        "description": "Spacious VIP category room equipped for up to 13-18 guests.",
+        "facilities": [
+            "Ultra HD Screen",
+            "Premium Karaoke",
+            "6 Microphones",
+            "Stage Lighting",
+            "Air Conditioning",
+            "Private Restroom"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-9CB1",
+        "name": "VIP Room 03",
+        "room_type": "VIP",
+        "capacity": 18,
+        "hourly_rate": 700.0,
+        "status": "Available",
+        "description": "Spacious VIP category room equipped for up to 13-18 guests.",
+        "facilities": [
+            "Ultra HD Screen",
+            "Premium Karaoke",
+            "6 Microphones",
+            "Stage Lighting",
+            "Air Conditioning",
+            "Private Restroom"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-9B89",
+        "name": "VIP Room 04",
+        "room_type": "VIP",
+        "capacity": 18,
+        "hourly_rate": 700.0,
+        "status": "Available",
+        "description": "Spacious VIP category room equipped for up to 13-18 guests.",
+        "facilities": [
+            "Ultra HD Screen",
+            "Premium Karaoke",
+            "6 Microphones",
+            "Stage Lighting",
+            "Air Conditioning",
+            "Private Restroom"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-0923",
+        "name": "VIP Room 05",
+        "room_type": "VIP",
+        "capacity": 18,
+        "hourly_rate": 700.0,
+        "status": "Available",
+        "description": "Spacious VIP category room equipped for up to 13-18 guests.",
+        "facilities": [
+            "Ultra HD Screen",
+            "Premium Karaoke",
+            "6 Microphones",
+            "Stage Lighting",
+            "Air Conditioning",
+            "Private Restroom"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-063B",
+        "name": "VVIP Room 01",
+        "room_type": "VVIP",
+        "capacity": 25,
+        "hourly_rate": 1000.0,
+        "status": "Available",
+        "description": "Spacious VVIP category room equipped for up to 19-25 guests.",
+        "facilities": [
+            "Theater Display",
+            "Master Audio Suite",
+            "6 Wireless Mics",
+            "Lighting System",
+            "Refrigerator",
+            "Private Restroom"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-A2F5",
+        "name": "VVIP Room 02",
+        "room_type": "VVIP",
+        "capacity": 25,
+        "hourly_rate": 1000.0,
+        "status": "Available",
+        "description": "Spacious VVIP category room equipped for up to 19-25 guests.",
+        "facilities": [
+            "Theater Display",
+            "Master Audio Suite",
+            "6 Wireless Mics",
+            "Lighting System",
+            "Refrigerator",
+            "Private Restroom"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-396F",
+        "name": "VVIP Room 03",
+        "room_type": "VVIP",
+        "capacity": 25,
+        "hourly_rate": 1000.0,
+        "status": "Available",
+        "description": "Spacious VVIP category room equipped for up to 19-25 guests.",
+        "facilities": [
+            "Theater Display",
+            "Master Audio Suite",
+            "6 Wireless Mics",
+            "Lighting System",
+            "Refrigerator",
+            "Private Restroom"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-6CB0",
+        "name": "VVIP Room 04",
+        "room_type": "VVIP",
+        "capacity": 25,
+        "hourly_rate": 1000.0,
+        "status": "Available",
+        "description": "Spacious VVIP category room equipped for up to 19-25 guests.",
+        "facilities": [
+            "Theater Display",
+            "Master Audio Suite",
+            "6 Wireless Mics",
+            "Lighting System",
+            "Refrigerator",
+            "Private Restroom"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    },
+    {
+        "room_id": "RM-20261102032301-CF81",
+        "name": "VVIP Room 05",
+        "room_type": "VVIP",
+        "capacity": 25,
+        "hourly_rate": 1000.0,
+        "status": "Available",
+        "description": "Spacious VVIP category room equipped for up to 19-25 guests.",
+        "facilities": [
+            "Theater Display",
+            "Master Audio Suite",
+            "6 Wireless Mics",
+            "Lighting System",
+            "Refrigerator",
+            "Private Restroom"
+        ],
+        "created_at": "2026-11-02 03:23:01"
+    }
+]

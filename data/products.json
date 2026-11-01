@@ -1,0 +1,137 @@
+[
+    {
+        "product_id": "PRD-20261102032311-D36A",
+        "name": "French Fries Platter",
+        "category": "Snacks and Appetizers",
+        "price": "180.00",
+        "description": "Crispy golden potato fries with cheese dip",
+        "is_available": true,
+        "image_path": ""
+    },
+    {
+        "product_id": "PRD-20261102032311-25D8",
+        "name": "Loaded Nachos",
+        "category": "Snacks and Appetizers",
+        "price": "250.00",
+        "description": "Tortilla chips with ground beef, cheese sauce, and salsa",
+        "is_available": true,
+        "image_path": ""
+    },
+    {
+        "product_id": "PRD-20261102032311-9F3F",
+        "name": "Sizzling Pork Sisig",
+        "category": "Rice Meals",
+        "price": "220.00",
+        "description": "Served with steamed rice and fried egg",
+        "is_available": true,
+        "image_path": ""
+    },
+    {
+        "product_id": "PRD-20261102032311-91B2",
+        "name": "Chicken Tenders with Rice",
+        "category": "Rice Meals",
+        "price": "200.00",
+        "description": "Breaded chicken strips with gravy and rice",
+        "is_available": true,
+        "image_path": ""
+    },
+    {
+        "product_id": "PRD-20261102032311-AA75",
+        "name": "Spaghetti Bolognese",
+        "category": "Pasta and Sharing",
+        "price": "280.00",
+        "description": "Classic beef bolognese pasta for sharing",
+        "is_available": true,
+        "image_path": ""
+    },
+    {
+        "product_id": "PRD-20261102032311-7220",
+        "name": "Carbonara Platter",
+        "category": "Pasta and Sharing",
+        "price": "320.00",
+        "description": "Creamy bacon and mushroom pasta",
+        "is_available": true,
+        "image_path": ""
+    },
+    {
+        "product_id": "PRD-20261102032311-A0E9",
+        "name": "Assorted Potato Chips",
+        "category": "Packaged Snacks",
+        "price": "80.00",
+        "description": "Choice of salted or sour cream chips",
+        "is_available": true,
+        "image_path": ""
+    },
+    {
+        "product_id": "PRD-20261102032311-28A6",
+        "name": "Coke (330ml Can)",
+        "category": "Soft Drinks",
+        "price": "60.00",
+        "description": "Chilled soda can",
+        "is_available": true,
+        "image_path": ""
+    },
+    {
+        "product_id": "PRD-20261102032311-1699",
+        "name": "Sprite (330ml Can)",
+        "category": "Soft Drinks",
+        "price": "60.00",
+        "description": "Chilled lemon-lime soda",
+        "is_available": true,
+        "image_path": ""
+    },
+    {
+        "product_id": "PRD-20261102032311-FC0D",
+        "name": "Iced Lemon Tea",
+        "category": "Juices and Water",
+        "price": "75.00",
+        "description": "Refreshing iced tea pitcher",
+        "is_available": true,
+        "image_path": ""
+    },
+    {
+        "product_id": "PRD-20261102032311-BEF6",
+        "name": "Bottled Mineral Water",
+        "category": "Juices and Water",
+        "price": "35.00",
+        "description": "500ml purified drinking water",
+        "is_available": true,
+        "image_path": ""
+    },
+    {
+        "product_id": "PRD-20261102032311-A7AB",
+        "name": "Iced Americano",
+        "category": "Coffee and Specialty Drinks",
+        "price": "110.00",
+        "description": "Espresso over ice",
+        "is_available": true,
+        "image_path": ""
+    },
+    {
+        "product_id": "PRD-20261102032311-E47A",
+        "name": "Classic Milk Tea",
+        "category": "Coffee and Specialty Drinks",
+        "price": "130.00",
+        "description": "With tapioca pearls",
+        "is_available": true,
+        "image_path": ""
+    },
+    {
+        "product_id": "PRD-20261102032311-31DC",
+        "name": "Chocolate Sundae",
+        "category": "Desserts",
+        "price": "120.00",
+        "description": "Vanilla ice cream with rich chocolate syrup",
+        "is_available": true,
+        "image_path": ""
+    },
+    {
+        "product_id": "PRD-20261102043908-709E",
+        "name": "Sprite Canned",
+        "category": "Soft Drinks",
+        "price": "50.00",
+        "description": "",
+        "is_available": true,
+        "image_path": ""
+    }
+]

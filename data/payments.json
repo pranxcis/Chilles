@@ -1,0 +1,30 @@
+[
+    {
+        "payment_id": "PAY-20261102052935-60DC",
+        "session_id": "SES-20261102052735-1B63",
+        "amount": "1220.00",
+        "method": "Cash",
+        "timestamp": "2026-11-02 05:29:35"
+    },
+    {
+        "payment_id": "PAY-20261102053647-1F4D",
+        "session_id": "SES-20261102052644-BBA0",
+        "amount": "750.00",
+        "method": "Cash",
+        "timestamp": "2026-11-02 05:36:47"
+    },
+    {
+        "payment_id": "PAY-20261102054220-8EF2",
+        "session_id": "SES-20261102054100-8D07",
+        "amount": "5180.00",
+        "method": "Cash",
+        "timestamp": "2026-11-02 05:42:20"
+    },
+    {
+        "payment_id": "PAY-20261102054722-BB01",
+        "session_id": "SES-20261102054634-3605",
+        "amount": "680.00",
+        "method": "Cash",
+        "timestamp": "2026-11-02 05:47:22"
+    }
+]

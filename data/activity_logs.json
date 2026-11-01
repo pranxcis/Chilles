@@ -1,0 +1,152 @@
+[
+    {
+        "timestamp": "2026-11-02 03:29:29",
+        "user": "Administrator",
+        "action": "Changed status of Standard Room 02 to Maintenance"
+    },
+    {
+        "timestamp": "2026-11-02 03:29:39",
+        "user": "Administrator",
+        "action": "Updated room details for: Standard Room 02"
+    },
+    {
+        "timestamp": "2026-11-02 04:17:35",
+        "user": "Administrator",
+        "action": "Started rental session SES-20261102041735-F227 for Standard Room 01"
+    },
+    {
+        "timestamp": "2026-11-02 04:18:05",
+        "user": "Administrator",
+        "action": "Added 1x Iced Americano to SES-20261102041735-F227"
+    },
+    {
+        "timestamp": "2026-11-02 04:26:23",
+        "user": "Administrator",
+        "action": "Started rental session SES-20261102042623-C2DF for Standard Room 01"
+    },
+    {
+        "timestamp": "2026-11-02 04:26:48",
+        "user": "Administrator",
+        "action": "Created order ticket ORD-20261102042648-35D4 for session SES-20261102042623-C2DF"
+    },
+    {
+        "timestamp": "2026-11-02 04:26:56",
+        "user": "Administrator",
+        "action": "Updated order ORD-20261102042648-35D4 status to Preparing"
+    },
+    {
+        "timestamp": "2026-11-02 04:34:24",
+        "user": "Administrator",
+        "action": "Placed bulk order ORD-20261102043424-C981 (Tab) for session SES-20261102042623-C2DF"
+    },
+    {
+        "timestamp": "2026-11-02 04:39:08",
+        "user": "Administrator",
+        "action": "Created menu item: Sprite Canned (Soft Drinks)"
+    },
+    {
+        "timestamp": "2026-11-02 04:39:46",
+        "user": "Administrator",
+        "action": "Placed bulk order ORD-20261102043946-25EF (Tab) for session SES-20261102042623-C2DF"
+    },
+    {
+        "timestamp": "2026-11-02 04:44:49",
+        "user": "Administrator",
+        "action": "Registered new guest: Elijah Gallardo (09123456789)"
+    },
+    {
+        "timestamp": "2026-11-02 04:59:19",
+        "user": "Administrator",
+        "action": "Placed bulk order ORD-20261102045919-1833 (Tab) for session SES-20261102042623-C2DF"
+    },
+    {
+        "timestamp": "2026-11-02 05:06:37",
+        "user": "Administrator",
+        "action": "Placed bulk order ORD-20261102050637-F7AB (Tab) for session SES-20261102042623-C2DF"
+    },
+    {
+        "timestamp": "2026-11-02 05:26:20",
+        "user": "Administrator",
+        "action": "Changed status of Standard Room 02 to Available"
+    },
+    {
+        "timestamp": "2026-11-02 05:26:44",
+        "user": "Administrator",
+        "action": "Launched session SES-20261102052644-BBA0 for room Standard Room 02"
+    },
+    {
+        "timestamp": "2026-11-02 05:27:35",
+        "user": "Administrator",
+        "action": "Launched session SES-20261102052735-1B63 for room Standard Room 01"
+    },
+    {
+        "timestamp": "2026-11-02 05:28:40",
+        "user": "Administrator",
+        "action": "Placed bulk order ORD-20261102052840-3349 (Upfront) for session SES-20261102052735-1B63"
+    },
+    {
+        "timestamp": "2026-11-02 05:29:06",
+        "user": "Administrator",
+        "action": "Placed bulk order ORD-20261102052906-B088 (Tab) for session SES-20261102052735-1B63"
+    },
+    {
+        "timestamp": "2026-11-02 05:29:25",
+        "user": "Administrator",
+        "action": "Extended session SES-20261102052735-1B63 by 1.0 hrs"
+    },
+    {
+        "timestamp": "2026-11-02 05:29:35",
+        "user": "Administrator",
+        "action": "Completed checkout & bill-out for session SES-20261102052735-1B63 (Paid: 1220.00)"
+    },
+    {
+        "timestamp": "2026-11-02 05:36:30",
+        "user": "Administrator",
+        "action": "Placed bulk order ORD-20261102053630-4D85 (Upfront) for session SES-20261102052644-BBA0"
+    },
+    {
+        "timestamp": "2026-11-02 05:36:47",
+        "user": "Administrator",
+        "action": "Completed checkout & bill-out for session SES-20261102052644-BBA0 (Paid: 750.00)"
+    },
+    {
+        "timestamp": "2026-11-02 05:41:00",
+        "user": "Administrator",
+        "action": "Launched session SES-20261102054100-8D07 for room VVIP Room 05"
+    },
+    {
+        "timestamp": "2026-11-02 05:41:17",
+        "user": "Administrator",
+        "action": "Extended session SES-20261102054100-8D07 by 1.0 hrs"
+    },
+    {
+        "timestamp": "2026-11-02 05:41:23",
+        "user": "Administrator",
+        "action": "Extended session SES-20261102054100-8D07 by 1.0 hrs"
+    },
+    {
+        "timestamp": "2026-11-02 05:41:36",
+        "user": "Administrator",
+        "action": "Placed bulk order ORD-20261102054136-3187 (Tab) for session SES-20261102054100-8D07"
+    },
+    {
+        "timestamp": "2026-11-02 05:42:20",
+        "user": "Administrator",
+        "action": "Completed checkout & bill-out for session SES-20261102054100-8D07 (Paid: 5180.00)"
+    },
+    {
+        "timestamp": "2026-11-02 05:46:34",
+        "user": "Administrator",
+        "action": "Launched session SES-20261102054634-3605 for room Standard Room 04"
+    },
+    {
+        "timestamp": "2026-11-02 05:46:53",
+        "user": "Administrator",
+        "action": "Placed bulk order ORD-20261102054652-0830 (Upfront) for session SES-20261102054634-3605"
+    },
+    {
+        "timestamp": "2026-11-02 05:47:22",
+        "user": "Administrator",
+        "action": "Completed checkout & bill-out for session SES-20261102054634-3605 (Paid: 680.00)"
+    }
+]

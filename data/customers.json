@@ -1,0 +1,26 @@
+[
+    {
+        "customer_id": "CUST-20261102032348-F151",
+        "first_name": "Francis",
+        "last_name": "Balbin",
+        "middle_name": "Gustilo",
+        "phone": "091234567890",
+        "registration_date": "2026-11-02 03:23:48",
+        "email": "frank@gmail.com",
+        "address": "",
+        "notes": "Pogi",
+        "loyalty_points": 0
+    },
+    {
+        "customer_id": "CUST-20261102044449-EBD4",
+        "first_name": "Elijah",
+        "last_name": "Gallardo",
+        "middle_name": "",
+        "phone": "09123456789",
+        "registration_date": "2026-11-02 04:44:49",
+        "email": "eli@gmailcom",
+        "address": "",
+        "notes": "",
+        "loyalty_points": 0
+    }
+]

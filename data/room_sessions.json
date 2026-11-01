@@ -1,0 +1,199 @@
+[
+    {
+        "session_id": "SES-20261102041735-F227",
+        "room_id": "RM-20261102032301-39C3",
+        "customer_id": "CUST-20261102032348-F151",
+        "start_time": "2026-11-02 04:17:35",
+        "duration_hours": 6.0,
+        "end_time": "2026-11-02 10:17:35",
+        "hourly_rate": "250.0",
+        "package_id": "PKG-20261102032313-8A5A",
+        "status": "Completed",
+        "orders": [
+            {
+                "product_id": "PRD-20261102032311-A7AB",
+                "name": "Iced Americano",
+                "price": "110.00",
+                "quantity": 1,
+                "subtotal": "110.00"
+            }
+        ],
+        "rental_amount": "1500.00",
+        "food_amount": "110.00",
+        "overtime_minutes": 0,
+        "overtime_amount": "0.00",
+        "total_amount": "1610.00"
+    },
+    {
+        "session_id": "SES-20261102042623-C2DF",
+        "room_id": "RM-20261102032301-39C3",
+        "customer_id": "CUST-20261102032348-F151",
+        "start_time": "2026-11-02 04:26:23",
+        "duration_hours": 3.0,
+        "end_time": "2026-11-02 07:26:23",
+        "hourly_rate": "250.0",
+        "package_id": "",
+        "status": "Completed",
+        "orders": [
+            {
+                "product_id": "PRD-20261102032311-A7AB",
+                "name": "Iced Americano",
+                "price": "110.00",
+                "quantity": 1,
+                "subtotal": "110.00"
+            },
+            {
+                "product_id": "PRD-20261102032311-7220",
+                "name": "Carbonara Platter",
+                "price": "320.00",
+                "quantity": 1,
+                "subtotal": "320.00"
+            },
+            {
+                "product_id": "PRD-20261102032311-28A6",
+                "name": "Coke (330ml Can)",
+                "price": "60.00",
+                "quantity": 1,
+                "subtotal": "60.00"
+            },
+            {
+                "product_id": "PRD-20261102032311-FC0D",
+                "name": "Iced Lemon Tea",
+                "price": "75.00",
+                "quantity": 1,
+                "subtotal": "75.00"
+            },
+            {
+                "product_id": "PRD-20261102043908-709E",
+                "name": "Sprite Canned",
+                "price": "50.00",
+                "quantity": 1,
+                "subtotal": "50.00"
+            },
+            {
+                "product_id": "PRD-20261102032311-28A6",
+                "name": "Coke (330ml Can)",
+                "price": "60.00",
+                "quantity": 1,
+                "subtotal": "60.00"
+            },
+            {
+                "product_id": "PRD-20261102032311-1699",
+                "name": "Sprite (330ml Can)",
+                "price": "60.00",
+                "quantity": 1,
+                "subtotal": "60.00"
+            },
+            {
+                "product_id": "PRD-20261102032311-7220",
+                "name": "Carbonara Platter",
+                "price": "320.00",
+                "quantity": 1,
+                "subtotal": "320.00"
+            },
+            {
+                "product_id": "PRD-20261102032311-AA75",
+                "name": "Spaghetti Bolognese",
+                "price": "280.00",
+                "quantity": 1,
+                "subtotal": "280.00"
+            },
+            {
+                "product_id": "PRD-20261102032311-D36A",
+                "name": "French Fries Platter",
+                "price": "180.00",
+                "quantity": 1,
+                "subtotal": "180.00"
+            }
+        ],
+        "rental_amount": "750.00",
+        "food_amount": "1515.00",
+        "overtime_minutes": 0,
+        "overtime_amount": "0.00",
+        "total_amount": "2265.00"
+    },
+    {
+        "session_id": "SES-20261102052644-BBA0",
+        "room_id": "RM-20261102032301-B814",
+        "customer_id": "CUST-20261102032348-F151",
+        "start_time": "2026-11-02 05:26:44",
+        "duration_hours": 3.0,
+        "end_time": "2026-11-02 08:26:44",
+        "hourly_rate": "250.0",
+        "package_id": "",
+        "status": "Completed",
+        "orders": [],
+        "rental_amount": "750.00",
+        "food_amount": "0",
+        "overtime_minutes": 0,
+        "overtime_amount": "0.00",
+        "total_amount": "750.00"
+    },
+    {
+        "session_id": "SES-20261102052735-1B63",
+        "room_id": "RM-20261102032301-39C3",
+        "customer_id": "CUST-20261102032348-F151",
+        "start_time": "2026-11-02 05:27:35",
+        "duration_hours": 4.0,
+        "end_time": "2026-11-02 09:27:35",
+        "hourly_rate": "250.0",
+        "package_id": "",
+        "status": "Completed",
+        "orders": [
+            {
+                "product_id": "PRD-20261102032311-9F3F",
+                "name": "Sizzling Pork Sisig",
+                "price": "220.00",
+                "quantity": 1,
+                "subtotal": "220.00"
+            }
+        ],
+        "rental_amount": "1000.00",
+        "food_amount": "220.00",
+        "overtime_minutes": 0,
+        "overtime_amount": "0.00",
+        "total_amount": "1220.00"
+    },
+    {
+        "session_id": "SES-20261102054100-8D07",
+        "room_id": "RM-20261102032301-CF81",
+        "customer_id": "CUST-20261102032348-F151",
+        "start_time": "2026-11-02 05:41:00",
+        "duration_hours": 5.0,
+        "end_time": "2026-11-02 10:41:00",
+        "hourly_rate": "1000.0",
+        "package_id": "",
+        "status": "Completed",
+        "orders": [
+            {
+                "product_id": "PRD-20261102032311-D36A",
+                "name": "French Fries Platter",
+                "price": "180.00",
+                "quantity": 1,
+                "subtotal": "180.00"
+            }
+        ],
+        "rental_amount": "5000.00",
+        "food_amount": "180.00",
+        "overtime_minutes": 0,
+        "overtime_amount": "0.00",
+        "total_amount": "5180.00"
+    },
+    {
+        "session_id": "SES-20261102054634-3605",
+        "room_id": "RM-20261102032301-3AF8",
+        "customer_id": "CUST-20261102032348-F151",
+        "start_time": "2026-11-02 05:46:34",
+        "duration_hours": 3.0,
+        "end_time": "2026-11-02 08:46:34",
+        "hourly_rate": "250.0",
+        "package_id": "",
+        "status": "Completed",
+        "orders": [],
+        "rental_amount": "750.00",
+        "food_amount": "0",
+        "overtime_minutes": 0,
+        "overtime_amount": "0.00",
+        "total_amount": "750.00"
+    }
+]

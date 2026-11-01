@@ -1,0 +1,169 @@
+[
+    {
+        "package_id": "PKG-20261102032313-2B54",
+        "name": "Standard Saver",
+        "category": "Standard",
+        "duration_hours": 3.0,
+        "price": "650.00",
+        "includes_food": false,
+        "inclusions": [],
+        "description": "3-hour room rental bundle for Standard rooms",
+        "is_active": true
+    },
+    {
+        "package_id": "PKG-20261102032313-9CBF",
+        "name": "Medium Barkada",
+        "category": "Medium",
+        "duration_hours": 3.0,
+        "price": "900.00",
+        "includes_food": false,
+        "inclusions": [],
+        "description": "3-hour room rental bundle for Medium rooms",
+        "is_active": true
+    },
+    {
+        "package_id": "PKG-20261102032313-1B6D",
+        "name": "Grand Session",
+        "category": "Grand",
+        "duration_hours": 3.0,
+        "price": "1350.00",
+        "includes_food": false,
+        "inclusions": [],
+        "description": "3-hour room rental bundle for Grand rooms",
+        "is_active": true
+    },
+    {
+        "package_id": "PKG-20261102032313-3C0E",
+        "name": "VIP Experience",
+        "category": "VIP",
+        "duration_hours": 4.0,
+        "price": "2500.00",
+        "includes_food": false,
+        "inclusions": [],
+        "description": "4-hour luxury room rental bundle for VIP rooms",
+        "is_active": true
+    },
+    {
+        "package_id": "PKG-20261102032313-AF30",
+        "name": "VVIP Experience",
+        "category": "VVIP",
+        "duration_hours": 4.0,
+        "price": "3600.00",
+        "includes_food": false,
+        "inclusions": [],
+        "description": "4-hour ultra-luxury room bundle for VVIP rooms",
+        "is_active": true
+    },
+    {
+        "package_id": "PKG-20261102032313-23CD",
+        "name": "Barkada Bundle",
+        "category": "Standard",
+        "duration_hours": 3.0,
+        "price": "1000.00",
+        "includes_food": true,
+        "inclusions": [
+            {
+                "product_name": "French Fries Platter",
+                "quantity": 1
+            },
+            {
+                "product_name": "Coke (330ml Can)",
+                "quantity": 4
+            }
+        ],
+        "description": "3h Standard room + fries & drinks",
+        "is_active": true
+    },
+    {
+        "package_id": "PKG-20261102032313-BCF0",
+        "name": "Friends Bundle",
+        "category": "Medium",
+        "duration_hours": 3.0,
+        "price": "1400.00",
+        "includes_food": true,
+        "inclusions": [
+            {
+                "product_name": "Loaded Nachos",
+                "quantity": 1
+            },
+            {
+                "product_name": "Iced Lemon Tea",
+                "quantity": 1
+            }
+        ],
+        "description": "3h Medium room + nachos & pitcher of iced tea",
+        "is_active": true
+    },
+    {
+        "package_id": "PKG-20261102032313-FA3B",
+        "name": "Grand Feast",
+        "category": "Grand",
+        "duration_hours": 3.0,
+        "price": "2000.00",
+        "includes_food": true,
+        "inclusions": [
+            {
+                "product_name": "Sizzling Pork Sisig",
+                "quantity": 2
+            },
+            {
+                "product_name": "Spaghetti Bolognese",
+                "quantity": 1
+            },
+            {
+                "product_name": "Coke (330ml Can)",
+                "quantity": 6
+            }
+        ],
+        "description": "3h Grand room + feast meals & drinks",
+        "is_active": true
+    },
+    {
+        "package_id": "PKG-20261102032313-4108",
+        "name": "VIP Celebration",
+        "category": "VIP",
+        "duration_hours": 4.0,
+        "price": "3000.00",
+        "includes_food": true,
+        "inclusions": [
+            {
+                "product_name": "Loaded Nachos",
+                "quantity": 2
+            },
+            {
+                "product_name": "Carbonara Platter",
+                "quantity": 1
+            },
+            {
+                "product_name": "Iced Lemon Tea",
+                "quantity": 2
+            }
+        ],
+        "description": "4h VIP room + party platters",
+        "is_active": true
+    },
+    {
+        "package_id": "PKG-20261102032313-8A5A",
+        "name": "VVIP Party",
+        "category": "VVIP",
+        "duration_hours": 4.0,
+        "price": "4500.00",
+        "includes_food": true,
+        "inclusions": [
+            {
+                "product_name": "Loaded Nachos",
+                "quantity": 2
+            },
+            {
+                "product_name": "Sizzling Pork Sisig",
+                "quantity": 3
+            },
+            {
+                "product_name": "Carbonara Platter",
+                "quantity": 2
+            }
+        ],
+        "description": "4h VVIP room + complete banquet spread",
+        "is_active": true
+    }
+]
